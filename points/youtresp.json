@@ -1,2 +1,16 @@
-
-{ "id":"youtresp","service":"Youtube","title":"Utilisateur seul responsable de son contenu et comportement en ligne","tosdr":{"tldr":"YT pas responsable de l'activité de l'utilisateur, du non respect aux CGU, et du contenu","topics":"Clauses limitatives de responsabilité","point":"neutral","sources":"https://www.youtube.com/t/terms","score":60}}
+{
+  "id": "youtresp",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Utilisateur seul responsable de son contenu et comportement en ligne",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 60,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "YT pas responsable de l'activité de l'utilisateur, du non respect aux CGU, et du contenu",
+    "topics": "Clauses limitatives de responsabilité"
+  }
+}

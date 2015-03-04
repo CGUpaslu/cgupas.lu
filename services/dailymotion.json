@@ -1,24 +1,34 @@
 {
-    "alexa": 0,
-    "id": "dailymotion",
-    "name": "Dailymotion",
-    "type": "service",
-    "urls": ["dailymotion.com"],
-    "fulltos": {
-        "privacy": {
-            "name": "Données personnelles",
-            "url": "http://www.dailymotion.com/legal/privacy"
-        },
-        "terms": {
-            "name": "Conditions d’utilisation",
-            "url": "http://www.dailymotion.com/legal/terms"
-        }
+  "alexa": 0,
+  "dataexport": false,
+  "freesoftware": false,
+  "fulltos": {
+    "privacy": {
+      "name": "Données personnelles",
+      "url": "http://www.dailymotion.com/legal/privacy"
     },
-    "tosdr": {
-        "rated": false
-    },
-    "keywords": ["video", "streaming", "vidéo"],
-    "related": ["youtube"],
-    "dataexport": false,
-    "freesoftware": false
+    "terms": {
+      "name": "Conditions d’utilisation",
+      "url": "http://www.dailymotion.com/legal/terms"
+    }
+  },
+  "id": "dailymotion",
+  "keywords": [
+    "video",
+    "streaming",
+    "vidéo"
+  ],
+  "name": "Dailymotion",
+  "related": [
+    "youtube"
+  ],
+  "tosdr": {
+    "keywords": [],
+    "rated": false,
+    "related": []
+  },
+  "type": "service",
+  "urls": [
+    "dailymotion.com"
+  ]
 }

@@ -1,2 +1,16 @@
-
-{ "id":"soundeng","service":"Soundcloud","title":"En anglais, seulement","tosdr":{"tldr":"Texte disponible en anglais uniquement. Clair et intelligible. Peu de renvois.","topics":"Lisibilité et intelligibilité des CGU","point":"bad","sources":"https://soundcloud.com/terms-of-use","score":30}}
+{
+  "id": "soundeng",
+  "service": "Soundcloud",
+  "services": [
+    "Soundcloud"
+  ],
+  "title": "En anglais, seulement",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 30,
+    "sources": "https://soundcloud.com/terms-of-use",
+    "tldr": "Texte disponible en anglais uniquement. Clair et intelligible. Peu de renvois.",
+    "topics": "Lisibilité et intelligibilité des CGU"
+  }
+}

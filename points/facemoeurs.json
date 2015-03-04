@@ -1,2 +1,16 @@
-
-{ "id":"facemoeurs","service":"Facebook","title":"Respect des bonnes mœurs","tosdr":{"tldr":"-        Engagements de la part des utilisateurs dans la façon d’utiliser et les contenus publiés (ni pornographie, ni racisme etc...)<br />(Pas de pseudonymes + Pas d’identification des personnes qui ne sont pas sur FB sans leur accord)","topics":"Engagements de la part des utilisateurs","point":"good","sources":"https://www.facebook.com/legal/terms","score":40}}
+{
+  "id": "facemoeurs",
+  "service": "Facebook",
+  "services": [
+    "Facebook"
+  ],
+  "title": "Respect des bonnes mœurs",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 40,
+    "sources": "https://www.facebook.com/legal/terms",
+    "tldr": "-        Engagements de la part des utilisateurs dans la façon d’utiliser et les contenus publiés (ni pornographie, ni racisme etc...)<br />(Pas de pseudonymes + Pas d’identification des personnes qui ne sont pas sur FB sans leur accord)",
+    "topics": "Engagements de la part des utilisateurs"
+  }
+}

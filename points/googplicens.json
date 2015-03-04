@@ -1,2 +1,16 @@
-
-{ "id":"googplicens","service":"Google Play","title":"Licence très restrictive","tosdr":{"tldr":"Droit de jouissance non exclusif tant que Google possède les droits sur le contenu. Interdit de vendre, louer, redistribuer, transmettre, céder, etc, le contenu. Possible suppression du contenu si Google cède les droits, sans assurance de préavis raisonnable. Comptabilisation du nombre d'appareils utilisant le contenu. Modification possible du contenu à tout moment.","topics":"Droit accordés aux utilisateurs (licences)","point":"blocker","sources":"https://play.google.com/intl/fr_fr/about/play-terms.html","score":90}}
+{
+  "id": "googplicens",
+  "service": "Google Play",
+  "services": [
+    "Google Play"
+  ],
+  "title": "Licence très restrictive",
+  "tosdr": {
+    "binding": true,
+    "point": "blocker",
+    "score": 90,
+    "sources": "https://play.google.com/intl/fr_fr/about/play-terms.html",
+    "tldr": "Droit de jouissance non exclusif tant que Google possède les droits sur le contenu. Interdit de vendre, louer, redistribuer, transmettre, céder, etc, le contenu. Possible suppression du contenu si Google cède les droits, sans assurance de préavis raisonnable. Comptabilisation du nombre d'appareils utilisant le contenu. Modification possible du contenu à tout moment.",
+    "topics": "Droit accordés aux utilisateurs (licences)"
+  }
+}

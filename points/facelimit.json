@@ -1,2 +1,16 @@
-{ "id":"facelimit","service":"Facebook","title":"100$ de clause limitative de responsabilité ou un an de paiement","tosdr":{"tldr":"-  L'agrégat total de notre reponsabilité envers vous dans le cadre de cette déclaration ou facebook ne pourra dépasser le montant payé par vous au cours des 12 derniers mois précédents ou $100 USD, le montant le plus élevé étant celui pris en compte","topics":"Clauses limitatives de responsabilité","point":"neutral","sources":"https://www.facebook.com/legal/terms","score":50}}
-
+{
+  "id": "facelimit",
+  "service": "Facebook",
+  "services": [
+    "Facebook"
+  ],
+  "title": "100$ de clause limitative de responsabilité ou un an de paiement",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "sources": "https://www.facebook.com/legal/terms",
+    "tldr": "-  L'agrégat total de notre reponsabilité envers vous dans le cadre de cette déclaration ou facebook ne pourra dépasser le montant payé par vous au cours des 12 derniers mois précédents ou $100 USD, le montant le plus élevé étant celui pris en compte",
+    "topics": "Clauses limitatives de responsabilité"
+  }
+}

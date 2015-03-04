@@ -1,2 +1,16 @@
-
-{ "id":"youttaci","service":"Youtube","title":"Utilisation vaut acceptation tacite","tosdr":{"tldr":"L'utilisation vaut acceptation tacite. Pas de notification lors de la modification des CGU.","topics":"Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","point":"bad","sources":"https://www.youtube.com/t/terms","score":60}}
+{
+  "id": "youttaci",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Utilisation vaut acceptation tacite",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "L'utilisation vaut acceptation tacite. Pas de notification lors de la modification des CGU.",
+    "topics": "Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs"
+  }
+}

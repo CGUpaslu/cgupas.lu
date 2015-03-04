@@ -1,2 +1,16 @@
-
-{ "id":"facelisib","service":"Facebook","title":"lisible","tosdr":{"tldr":"Lisibilité correcte (traduction de l'anglais), des exemples donnés mais aucune certitude quant à leur pertinence (difficulté à voir, à partir des CGU, dans quelle mesure facebook utilise les données utilisateurs à fins commerciales)","topics":"Lisibilité et intelligibilité des CGU","point":"good","sources":"https://www.facebook.com/legal/terms","score":20}}
+{
+  "id": "facelisib",
+  "service": "Facebook",
+  "services": [
+    "Facebook"
+  ],
+  "title": "lisible",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 20,
+    "sources": "https://www.facebook.com/legal/terms",
+    "tldr": "Lisibilité correcte (traduction de l'anglais), des exemples donnés mais aucune certitude quant à leur pertinence (difficulté à voir, à partir des CGU, dans quelle mesure facebook utilise les données utilisateurs à fins commerciales)",
+    "topics": "Lisibilité et intelligibilité des CGU"
+  }
+}

@@ -1,2 +1,16 @@
-
-{ "id":"twitlicens","service":"Twitter","title":"Une licence accordée à twitter des contenus publiés","tosdr":{"tldr":"-        L’utilisateur garde ses droits… mais accorde à twitter une licence mondiale, non-exclusive et gratuite sur les contenus publiés","topics":"Droit accordés aux utilisateurs (licences)","point":"bad","sources":"https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1847","score":90}}
+{
+  "id": "twitlicens",
+  "service": "Twitter",
+  "services": [
+    "Twitter"
+  ],
+  "title": "Une licence accordée à twitter des contenus publiés",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 90,
+    "sources": "https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1847",
+    "tldr": "-        L’utilisateur garde ses droits… mais accorde à twitter une licence mondiale, non-exclusive et gratuite sur les contenus publiés",
+    "topics": "Droit accordés aux utilisateurs (licences)"
+  }
+}

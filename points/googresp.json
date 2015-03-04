@@ -1,2 +1,16 @@
-
-{ "id":"googpresp","service":"Google Play","title":"Responsabilité limitée en cas de contenu défectueux","tosdr":{"tldr":"Si le contenu est défectueux, Google rembourse à hauteur du prix d'achat. Pas de limitation de responsabilité pour aucune des parties en cas de litiges liés à un décès/dommage corporel, fraude, fausse déclaration intentionnelle.","topics":"Clauses limitatives de responsabilité","point":"neutral","sources":"https://play.google.com/intl/fr_fr/about/play-terms.html","score":50}}
+{
+  "id": "googpresp",
+  "service": "Google Play",
+  "services": [
+    "Google Play"
+  ],
+  "title": "Responsabilité limitée en cas de contenu défectueux",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "sources": "https://play.google.com/intl/fr_fr/about/play-terms.html",
+    "tldr": "Si le contenu est défectueux, Google rembourse à hauteur du prix d'achat. Pas de limitation de responsabilité pour aucune des parties en cas de litiges liés à un décès/dommage corporel, fraude, fausse déclaration intentionnelle.",
+    "topics": "Clauses limitatives de responsabilité"
+  }
+}

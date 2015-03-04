@@ -1,2 +1,16 @@
-
-{ "id":"fnacdom","service":"Fnac","title":"Domiciliation en France","tosdr":{"tldr":"Les fichiers de livres numériques ne sont vendus qu'aux clients sur le territoire français, le client déclare donc être domicilié en France.","topics":"Engagements de la part des utilisateurs","point":"neutral","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":20}}
+{
+  "id": "fnacdom",
+  "service": "Fnac",
+  "services": [
+    "Fnac"
+  ],
+  "title": "Domiciliation en France",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 20,
+    "sources": "http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",
+    "tldr": "Les fichiers de livres numériques ne sont vendus qu'aux clients sur le territoire français, le client déclare donc être domicilié en France.",
+    "topics": "Engagements de la part des utilisateurs"
+  }
+}

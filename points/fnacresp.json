@@ -1,1 +1,16 @@
-{ "id":"fnacresp","service":"Fnac","title":"Non-responsabilité hors CGU","tosdr":{"tldr":"Pas de responsabilité pour utilisation des produits hors du cadre des CGU. FNAC n'a pas vocation à vendre à des professionnels : absence de responsabilité pour les préjudices résultant d'une activité professionnelle liée aux produits achetés.","topics":"Clauses limitatives de responsabilité","point":"bad","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":70}}
+{
+  "id": "fnacresp",
+  "service": "Fnac",
+  "services": [
+    "Fnac"
+  ],
+  "title": "Non-responsabilité hors CGU",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 70,
+    "sources": "http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",
+    "tldr": "Pas de responsabilité pour utilisation des produits hors du cadre des CGU. FNAC n'a pas vocation à vendre à des professionnels : absence de responsabilité pour les préjudices résultant d'une activité professionnelle liée aux produits achetés.",
+    "topics": "Clauses limitatives de responsabilité"
+  }
+}

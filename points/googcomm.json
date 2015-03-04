@@ -1,2 +1,16 @@
-
-{ "id":"googcomm","service":"Google","title":"Pas de communication","tosdr":{"tldr":"--        Pas de communication des changements des CGU autre part que sur leur page (seul l’arrêt d’utilisation signifie refus)","topics":"Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","point":"bad","sources":"https://www.google.fr/intl/fr/policies/terms/regional.html","score":70}}
+{
+  "id": "googcomm",
+  "service": "Google",
+  "services": [
+    "Google"
+  ],
+  "title": "Pas de communication",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 70,
+    "sources": "https://www.google.fr/intl/fr/policies/terms/regional.html",
+    "tldr": "--        Pas de communication des changements des CGU autre part que sur leur page (seul l’arrêt d’utilisation signifie refus)",
+    "topics": "Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs"
+  }
+}

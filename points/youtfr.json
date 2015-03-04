@@ -1,2 +1,16 @@
-
-{ "id":"youtfr","service":"Youtube","title":"Juridiction française","tosdr":{"tldr":"Compétence exclusive des tribunaux français. Compétence des juridictions de tous pays pour des mesures conservatoires, d'injonction ou d'urgence.","topics":"Juridiction compétente","point":"good","sources":"https://www.youtube.com/t/terms","score":70}}
+{
+  "id": "youtfr",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Juridiction française",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 70,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "Compétence exclusive des tribunaux français. Compétence des juridictions de tous pays pour des mesures conservatoires, d'injonction ou d'urgence.",
+    "topics": "Juridiction compétente"
+  }
+}

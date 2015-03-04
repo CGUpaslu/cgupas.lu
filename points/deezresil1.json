@@ -1,4 +1,16 @@
-{   
-    "id": "deezresil1",
-"service":"deezer","title":"Sur simple demande et immédiate","tosdr":{"tldr":"Résiliation possible à tout moment via le site. Effet immédiat.","point":"good","score":70},"topics":"Conditions de résiliation","sources":"http://www.deezer.com/fr/legal/cgu"
+{
+  "id": "deezresil1",
+  "service": "deezer",
+  "services": [
+    "deezer"
+  ],
+  "sources": "http://www.deezer.com/fr/legal/cgu",
+  "title": "Sur simple demande et immédiate",
+  "topics": "Conditions de résiliation",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 70,
+    "tldr": "Résiliation possible à tout moment via le site. Effet immédiat."
+  }
 }

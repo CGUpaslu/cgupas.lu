@@ -1,2 +1,16 @@
-
-{ "id":"soundcomm","service":"Soundcloud","title":"Pas de communication des informations mais usage interne","tosdr":{"tldr":"Pas de partage d'informations personnelles aux tiers (principe) sauf cookies et: <br>1. informations publiées sur le compte et accessible par les autres utilisateurs (sauf e-mail) <br>2. partage de certaines informations à des partenaires dans le but exclusif de fournir un service à SC (utilisation non-commerciale).<br>3. partage des infos et contenus publiées sur SC à d'autres applications ou réseaux sociaux (Facebook, Twitter..) si connexion du compte SC par l'utilisateur avec ces derniers.<br>4. SC se réserve le droit de confier les informations publiées à la justice si celle-ci les réclame.<br>5. en cas de rachat des actifs de SC les infos de l'utilisateurs sont vendus comme actif de l'entreprise.","topics":"Relations avec les tiers","point":"good","sources":"https://soundcloud.com/terms-of-use","score":50}}
+{
+  "id": "soundcomm",
+  "service": "Soundcloud",
+  "services": [
+    "Soundcloud"
+  ],
+  "title": "Pas de communication des informations mais usage interne",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 50,
+    "sources": "https://soundcloud.com/terms-of-use",
+    "tldr": "Pas de partage d'informations personnelles aux tiers (principe) sauf cookies et: <br>1. informations publiées sur le compte et accessible par les autres utilisateurs (sauf e-mail) <br>2. partage de certaines informations à des partenaires dans le but exclusif de fournir un service à SC (utilisation non-commerciale).<br>3. partage des infos et contenus publiées sur SC à d'autres applications ou réseaux sociaux (Facebook, Twitter..) si connexion du compte SC par l'utilisateur avec ces derniers.<br>4. SC se réserve le droit de confier les informations publiées à la justice si celle-ci les réclame.<br>5. en cas de rachat des actifs de SC les infos de l'utilisateurs sont vendus comme actif de l'entreprise.",
+    "topics": "Relations avec les tiers"
+  }
+}

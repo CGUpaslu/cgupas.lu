@@ -1,24 +1,34 @@
 {
-    "id": "deezer",
-    "name": "Deezer",
-    "type": "service",
-    "urls": ["deezer.com"],
-    "fulltos": {
-        "privacy": {
-            "name": "",
-            "url": ""
-        },
-        "terms": {
-            "name": "",
-            "url": ""
-        }
+  "alexa": 1000000,
+  "dataexport": false,
+  "freesoftware": false,
+  "fulltos": {
+    "privacy": {
+      "name": "",
+      "url": ""
     },
-    "tosdr": {
-        "rated": false
-    },
-    "keywords": ["musique", "streaming", "music"],
-    "related": ["soundcloud"],
-    "dataexport": false,
-    "freesoftware": false
+    "terms": {
+      "name": "",
+      "url": ""
+    }
+  },
+  "id": "deezer",
+  "keywords": [
+    "musique",
+    "streaming",
+    "music"
+  ],
+  "name": "Deezer",
+  "related": [
+    "soundcloud"
+  ],
+  "tosdr": {
+    "keywords": [],
+    "rated": false,
+    "related": []
+  },
+  "type": "service",
+  "urls": [
+    "deezer.com"
+  ]
 }
-

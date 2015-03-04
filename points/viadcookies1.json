@@ -8,11 +8,13 @@
   "services": "viadeo",
   "sources": "privacy",
   "title": "Possibilité de désactiver les cookies",
-  "topics": ["cookies"],
+  "topics": [
+    "cookies"
+  ],
   "tosdr": {
     "binding": true,
     "point": "good",
     "score": 30,
-    "tldr": "La majeure partie de nos services n’utilisent pas de cookies, tels que les recherches et consultation de listes ou de profils d’utilisateurs publics. Vous pouvez choisir de désactiver l’utilisation des cookies en modifiant vos préférences dans votre navigateur internet. Dans ce cas, certaines fonctionnalités d’APVO ne seront plus disponibles." 
+    "tldr": "La majeure partie de nos services n’utilisent pas de cookies, tels que les recherches et consultation de listes ou de profils d’utilisateurs publics. Vous pouvez choisir de désactiver l’utilisation des cookies en modifiant vos préférences dans votre navigateur internet. Dans ce cas, certaines fonctionnalités d’APVO ne seront plus disponibles."
   }
 }

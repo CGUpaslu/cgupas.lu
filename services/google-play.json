@@ -1,24 +1,39 @@
 {
-    "id": "google-play",
-    "name": "Google Play",
-    "type": "service",
-    "urls": ["play.google.com"],
-    "fulltos": {
-        "privacy": {
-            "service": "google"
-        },
-        "terms": {
-            "name": "",
-            "url": ""
-        }
+  "alexa": 1000000,
+  "dataexport": false,
+  "freesoftware": false,
+  "fulltos": {
+    "privacy": {
+      "service": "google"
     },
-    "tosdr": {
-        "rated": false
-    },
-    "keywords": ["music", "video", "streaming", "shop", "e-book"],
-    "related": ["soundcloud", "fnac"],
-    "parent": ["google"],
-    "dataexport": false,
-    "freesoftware": false
+    "terms": {
+      "name": "",
+      "url": ""
+    }
+  },
+  "id": "google-play",
+  "keywords": [
+    "music",
+    "video",
+    "streaming",
+    "shop",
+    "e-book"
+  ],
+  "name": "Google Play",
+  "parent": [
+    "google"
+  ],
+  "related": [
+    "soundcloud",
+    "fnac"
+  ],
+  "tosdr": {
+    "keywords": [],
+    "rated": false,
+    "related": []
+  },
+  "type": "service",
+  "urls": [
+    "play.google.com"
+  ]
 }
-

@@ -1,2 +1,16 @@
-
-{ "id":"fnacnotif","service":"Fnac","title":"Absence de notifications","tosdr":{"tldr":"Pas de notification du changement des CGU : «La société FNAC peut apporter toutes les modifications qu'elle jugera nécessaire ; nous vous invitons à revenir régulièrement pour vous tenir au courant»","topics":"Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","point":"bad","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":40}}
+{
+  "id": "fnacnotif",
+  "service": "Fnac",
+  "services": [
+    "Fnac"
+  ],
+  "title": "Absence de notifications",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 40,
+    "sources": "http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",
+    "tldr": "Pas de notification du changement des CGU : «La société FNAC peut apporter toutes les modifications qu'elle jugera nécessaire ; nous vous invitons à revenir régulièrement pour vous tenir au courant»",
+    "topics": "Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs"
+  }
+}

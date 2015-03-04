@@ -1,2 +1,16 @@
-
-{ "id":"googpintercon","service":"Google Play","title":"Interconnexion de nombreuses CGU","tosdr":{"tldr":"L'acceptation aux conditions de Google Play implique l'acceptation automatique des CGU de Google et des différents services Google interconnectés : difficile de prendre connaissance de toutes les conditions","topics":"Lisibilité et intelligibilité des CGU","point":"bad","sources":"https://play.google.com/intl/fr_fr/about/play-terms.html","score":70}}
+{
+  "id": "googpintercon",
+  "service": "Google Play",
+  "services": [
+    "Google Play"
+  ],
+  "title": "Interconnexion de nombreuses CGU",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 70,
+    "sources": "https://play.google.com/intl/fr_fr/about/play-terms.html",
+    "tldr": "L'acceptation aux conditions de Google Play implique l'acceptation automatique des CGU de Google et des différents services Google interconnectés : difficile de prendre connaissance de toutes les conditions",
+    "topics": "Lisibilité et intelligibilité des CGU"
+  }
+}

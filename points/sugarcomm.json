@@ -1,2 +1,16 @@
-
-{ "id":"sugarcomm","service":"SugarSync","title":"Pas de communication sans accord","tosdr":{"tldr":"Respect de la discrétion et de la confidentialité. Le contenu de l'utilisateur ne sera livré à un tiers que si l'utilisateur en fait la demande ou en cas d'injonction d'une juridiction compétente.","topics":"Relations avec les tiers","point":"good","sources":"https://www.sugarsync.com/terms.html","score":70}}
+{
+  "id": "sugarcomm",
+  "service": "SugarSync",
+  "services": [
+    "SugarSync"
+  ],
+  "title": "Pas de communication sans accord",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 70,
+    "sources": "https://www.sugarsync.com/terms.html",
+    "tldr": "Respect de la discrétion et de la confidentialité. Le contenu de l'utilisateur ne sera livré à un tiers que si l'utilisateur en fait la demande ou en cas d'injonction d'une juridiction compétente.",
+    "topics": "Relations avec les tiers"
+  }
+}

@@ -1,4 +1,16 @@
 {
-    "id": "deezresp1",
-"service":"deezer","title":"Pas de responsabilité en cas de problème technique","tosdr":{"tldr":"Pas de responsabilité de Deezer en cas de problème technique quelqu'il soit.","point":"neutral","score":20},"topics":"Clauses limitatives de responsabilité","sources":"http://www.deezer.com/fr/legal/cgu"
+  "id": "deezresp1",
+  "service": "deezer",
+  "services": [
+    "deezer"
+  ],
+  "sources": "http://www.deezer.com/fr/legal/cgu",
+  "title": "Pas de responsabilité en cas de problème technique",
+  "topics": "Clauses limitatives de responsabilité",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 20,
+    "tldr": "Pas de responsabilité de Deezer en cas de problème technique quelqu'il soit."
+  }
 }

@@ -1,2 +1,16 @@
-
-{ "id":"googptransm","service":"Google Play","title":"Transmission de données aux commerçants impliqués dans la vente","tosdr":{"tldr":"Données transmises voire contrat conclu avec des tiers à l'occasion de vente dans lesquelles ces tiers sont vendeurs/fournisseurs (ex : magazine, fournisseur du contenu numérique).","topics":"Relations avec les tiers","point":"neutral","sources":"https://play.google.com/intl/fr_fr/about/play-terms.html","score":40}}
+{
+  "id": "googptransm",
+  "service": "Google Play",
+  "services": [
+    "Google Play"
+  ],
+  "title": "Transmission de données aux commerçants impliqués dans la vente",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 40,
+    "sources": "https://play.google.com/intl/fr_fr/about/play-terms.html",
+    "tldr": "Données transmises voire contrat conclu avec des tiers à l'occasion de vente dans lesquelles ces tiers sont vendeurs/fournisseurs (ex : magazine, fournisseur du contenu numérique).",
+    "topics": "Relations avec les tiers"
+  }
+}

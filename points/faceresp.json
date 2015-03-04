@@ -1,2 +1,16 @@
-{ "id":"faceresp","service":"Facebook","title":"Rembourser facebook en cas de responsabilité personnelle","tosdr":{"tldr":"-        En cas de plainte à notre encontre suite à vos actions, à votre contenu ou à vos informations sur Facebook, vous indemniserez Facebook pour toute perte, responsabilité, réclamation, demande, dépenses et frais, y compris les honoraires raisonnables d’avocat, afférents à cette plainte","topics":"Poursuites possibles","point":"neutral","sources":"https://www.facebook.com/legal/terms","score":50}}
-
+{
+  "id": "faceresp",
+  "service": "Facebook",
+  "services": [
+    "Facebook"
+  ],
+  "title": "Rembourser facebook en cas de responsabilité personnelle",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "sources": "https://www.facebook.com/legal/terms",
+    "tldr": "-        En cas de plainte à notre encontre suite à vos actions, à votre contenu ou à vos informations sur Facebook, vous indemniserez Facebook pour toute perte, responsabilité, réclamation, demande, dépenses et frais, y compris les honoraires raisonnables d’avocat, afférents à cette plainte",
+    "topics": "Poursuites possibles"
+  }
+}

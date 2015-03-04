@@ -1,2 +1,16 @@
-
-{ "id":"fnaccrypt","service":"Fnac","title":"Système de cryptage des données","tosdr":{"tldr":"Système de cryptage SS. Procédés de brouillage des données de l'utilisateur. Les données peuvent certes être transférés à des tiers, mais ceux-ci sont établis dans des pays dont la législation est reconnue conforme en matière de protection des données par la Commission européenne (ex : Canada).","topics":"Stockage des données (modalités et localisation)","point":"good","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":50}}
+{
+  "id": "fnaccrypt",
+  "service": "Fnac",
+  "services": [
+    "Fnac"
+  ],
+  "title": "Système de cryptage des données",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 50,
+    "sources": "http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",
+    "tldr": "Système de cryptage SS. Procédés de brouillage des données de l'utilisateur. Les données peuvent certes être transférés à des tiers, mais ceux-ci sont établis dans des pays dont la législation est reconnue conforme en matière de protection des données par la Commission européenne (ex : Canada).",
+    "topics": "Stockage des données (modalités et localisation)"
+  }
+}

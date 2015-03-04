@@ -8,7 +8,10 @@
   "services": "viadeo",
   "sources": "terms",
   "title": "Pas de communication des données non publiques",
-  "topics": ["personal-data", "third"],
+  "topics": [
+    "personal-data",
+    "third"
+  ],
   "tosdr": {
     "binding": true,
     "point": "good",

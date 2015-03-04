@@ -1,4 +1,16 @@
 {
-    "id":"dailyirresp1",
-"service":
-"Dailymotion","title":"Irresponsabilité de Dailymotion en l'absence de notification","tosdr": {"tldr":"Aucune obligation générale de surveillance. Les seules obligations de DM sont de proposer un système de notification et de retirer le contenu illicite dont ils ont connaissance.","point":"neutral", "score": 60},"topics":"liability","sources":"terms"}
+  "id": "dailyirresp1",
+  "service": "Dailymotion",
+  "services": [
+    "Dailymotion"
+  ],
+  "sources": "terms",
+  "title": "Irresponsabilité de Dailymotion en l'absence de notification",
+  "topics": "liability",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 60,
+    "tldr": "Aucune obligation générale de surveillance. Les seules obligations de DM sont de proposer un système de notification et de retirer le contenu illicite dont ils ont connaissance."
+  }
+}

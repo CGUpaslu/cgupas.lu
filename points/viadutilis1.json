@@ -8,7 +8,9 @@
   "services": "viadeo",
   "sources": "terms",
   "title": "Licence d’utilisation à titre personnel",
-  "topics": ["governance"],
+  "topics": [
+    "governance"
+  ],
   "tosdr": {
     "binding": true,
     "point": "neutral",

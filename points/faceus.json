@@ -1,2 +1,16 @@
-
-{ "id":"faceus","service":"Facebook","title":"Straight to the USA","tosdr":{"tldr":"-        Acceptation que les données soient envoyées et traitées aux USA.<br /> Précision : Aucune disposition de cet accord ne peut nous empêcher de respecter la loi (logique !)","topics":"Stockage des données (modalités et localisation)","point":"bad","sources":"https://www.facebook.com/legal/terms","score":60}}
+{
+  "id": "faceus",
+  "service": "Facebook",
+  "services": [
+    "Facebook"
+  ],
+  "title": "Straight to the USA",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "sources": "https://www.facebook.com/legal/terms",
+    "tldr": "-        Acceptation que les données soient envoyées et traitées aux USA.<br /> Précision : Aucune disposition de cet accord ne peut nous empêcher de respecter la loi (logique !)",
+    "topics": "Stockage des données (modalités et localisation)"
+  }
+}

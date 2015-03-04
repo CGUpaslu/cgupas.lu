@@ -1,2 +1,16 @@
-
-{ "id":"soundmodif","service":"Soundcloud","title":"Notification 6 semaines avant les modifications","tosdr":{"tldr":"En cas de modification des CGU, responsabilité de l'utilisateur de consulter la page. Mais SC envoi une notification sur le compte et un courriel sur l'adresse mail de l'utilisateur 6 semaines avant que la modification devienne effective. La non résiliation après le délai de 6 semaines vaut acceptation de la modification par l'utilisateur.","topics":"Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","point":"good","sources":"https://soundcloud.com/terms-of-use","score":30}}
+{
+  "id": "soundmodif",
+  "service": "Soundcloud",
+  "services": [
+    "Soundcloud"
+  ],
+  "title": "Notification 6 semaines avant les modifications",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 30,
+    "sources": "https://soundcloud.com/terms-of-use",
+    "tldr": "En cas de modification des CGU, responsabilité de l'utilisateur de consulter la page. Mais SC envoi une notification sur le compte et un courriel sur l'adresse mail de l'utilisateur 6 semaines avant que la modification devienne effective. La non résiliation après le délai de 6 semaines vaut acceptation de la modification par l'utilisateur.",
+    "topics": "Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs"
+  }
+}

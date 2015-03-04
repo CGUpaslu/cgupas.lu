@@ -1,2 +1,16 @@
-
-{ "id":"twitconsent","service":"Twitter","title":"qui ne dit mot consent, pas sans être prévenu","tosdr":{"tldr":"-        Modification : -        CGU susceptible de changer sans préavis + «Si nous faisons une modification à cette politique qui , à notre seule discrétion, est substantielle, nous vous le notifierons via une mise à jour @Twitter ou un courrier électronique à l'adresse associée avec votre compte. En continuant d'accéder ou en utilisant les Services après que ces changements soient entrés en vigueur, vous manifestez vous accord à être lié par la Politique de Vie Privée amendée.»","topics":"Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","point":"bad","sources":"https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1851","score":40}}
+{
+  "id": "twitconsent",
+  "service": "Twitter",
+  "services": [
+    "Twitter"
+  ],
+  "title": "qui ne dit mot consent, pas sans être prévenu",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 40,
+    "sources": "https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1851",
+    "tldr": "-        Modification : -        CGU susceptible de changer sans préavis + «Si nous faisons une modification à cette politique qui , à notre seule discrétion, est substantielle, nous vous le notifierons via une mise à jour @Twitter ou un courrier électronique à l'adresse associée avec votre compte. En continuant d'accéder ou en utilisant les Services après que ces changements soient entrés en vigueur, vous manifestez vous accord à être lié par la Politique de Vie Privée amendée.»",
+    "topics": "Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs"
+  }
+}

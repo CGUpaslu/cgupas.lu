@@ -1,2 +1,16 @@
-
-{ "id":"dropstock","service":"Dropbox","title":"Amazon stocker","tosdr":{"tldr":"Le stockage et délégué à la société Amazon.","topics":"Stockage des données (modalités et localisation)","point":"neutral","sources":"https://www.dropbox.com/privacy#terms","score":20}}
+{
+  "id": "dropstock",
+  "service": "Dropbox",
+  "services": [
+    "Dropbox"
+  ],
+  "title": "Amazon stocker",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 20,
+    "sources": "https://www.dropbox.com/privacy#terms",
+    "tldr": "Le stockage et délégué à la société Amazon.",
+    "topics": "Stockage des données (modalités et localisation)"
+  }
+}

@@ -1,2 +1,16 @@
-
-{ "id":"youtresil","service":"Youtube","title":"Résiliation bilatérale","tosdr":{"tldr":"Utilisateur peut supprimer son compte à tout moment. YT peut résilier le compte utilisateur pour diverses raisons (judiciaires, géographiques, contractuelles). Certaines clauses des CGU peuvent continuer à s'appliquer après la suppression du compte.","topics":"Conditions de résiliation","point":"bad","sources":"https://www.youtube.com/t/terms","score":60}}
+{
+  "id": "youtresil",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Résiliation bilatérale",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "Utilisateur peut supprimer son compte à tout moment. YT peut résilier le compte utilisateur pour diverses raisons (judiciaires, géographiques, contractuelles). Certaines clauses des CGU peuvent continuer à s'appliquer après la suppression du compte.",
+    "topics": "Conditions de résiliation"
+  }
+}

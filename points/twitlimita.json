@@ -1,2 +1,16 @@
-
-{ "id":"twitlimita","service":"Twitter","title":"100$ de clause limitative de responsabilité","tosdr":{"tldr":"-        Clause limitative de responsabilité (100$, autant que la législation le permet)","topics":"Clauses limitatives de responsabilité","point":"bad","sources":"https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1844","score":50}}
+{
+  "id": "twitlimita",
+  "service": "Twitter",
+  "services": [
+    "Twitter"
+  ],
+  "title": "100$ de clause limitative de responsabilité",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 50,
+    "sources": "https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1844",
+    "tldr": "-        Clause limitative de responsabilité (100$, autant que la législation le permet)",
+    "topics": "Clauses limitatives de responsabilité"
+  }
+}

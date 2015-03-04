@@ -1,2 +1,16 @@
-
-{ "id":"googpsanc","service":"Google Play","title":"Sanctions pénales ou civiles","tosdr":{"tldr":"Sanctions pénales ou civiles possibles en cas de violation ou de tentative de violation d'un dispositif de sécurité (ex : DRM)","topics":"Poursuites possibles","point":"neutral","sources":"https://play.google.com/intl/fr_fr/about/play-terms.html","score":50}}
+{
+  "id": "googpsanc",
+  "service": "Google Play",
+  "services": [
+    "Google Play"
+  ],
+  "title": "Sanctions pénales ou civiles",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "sources": "https://play.google.com/intl/fr_fr/about/play-terms.html",
+    "tldr": "Sanctions pénales ou civiles possibles en cas de violation ou de tentative de violation d'un dispositif de sécurité (ex : DRM)",
+    "topics": "Poursuites possibles"
+  }
+}

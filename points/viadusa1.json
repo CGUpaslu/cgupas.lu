@@ -8,7 +8,10 @@
   "services": "viadeo",
   "sources": "privacy",
   "title": "Utilisation des données aux États-Unis",
-  "topics": ["personal-data","jurisdiction-law"],
+  "topics": [
+    "personal-data",
+    "jurisdiction-law"
+  ],
   "tosdr": {
     "binding": true,
     "point": "bad",

@@ -1,2 +1,16 @@
-
-{ "id":"facepossibsupr","service":"Facebook","title":"Possibilité de suppression, mais il faut la trouver","tosdr":{"tldr":"2/ -        En général, les informations associées à votre compte sont conservées jusqu’à la suppression de ce dernier. Pour certaines catégories de données, nous pouvons également vous informer de pratiques spécifiques de rétention des données.","topics":"Conditions de résiliation","point":"bad","sources":"https://www.facebook.com/legal/terms","score":70}}
+{
+  "id": "facepossibsupr",
+  "service": "Facebook",
+  "services": [
+    "Facebook"
+  ],
+  "title": "Possibilité de suppression, mais il faut la trouver",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 70,
+    "sources": "https://www.facebook.com/legal/terms",
+    "tldr": "2/ -        En général, les informations associées à votre compte sont conservées jusqu’à la suppression de ce dernier. Pour certaines catégories de données, nous pouvons également vous informer de pratiques spécifiques de rétention des données.",
+    "topics": "Conditions de résiliation"
+  }
+}

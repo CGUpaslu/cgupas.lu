@@ -1,2 +1,16 @@
-
-{ "id":"twitnonpriv","service":"Twitter","title":"Commerce de toute donnée non privée","tosdr":{"tldr":"- Commerce de données non privées ou non personnelles","topics":"Relations avec les tiers","point":"bad","sources":"https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1846","score":90}}
+{
+  "id": "twitnonpriv",
+  "service": "Twitter",
+  "services": [
+    "Twitter"
+  ],
+  "title": "Commerce de toute donnée non privée",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 90,
+    "sources": "https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1846",
+    "tldr": "- Commerce de données non privées ou non personnelles",
+    "topics": "Relations avec les tiers"
+  }
+}

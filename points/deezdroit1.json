@@ -1,4 +1,16 @@
 {
-    "id": "deezdroit1",
-"service":"deezer","title":"Droit français","tosdr":{"tldr":"Soumission au droit français. Pas de clause attributive de juridiction.","point":"good","score":60},"topics":"Juridiction compétente","sources":"http://www.deezer.com/fr/legal/cgu"
+  "id": "deezdroit1",
+  "service": "deezer",
+  "services": [
+    "deezer"
+  ],
+  "sources": "http://www.deezer.com/fr/legal/cgu",
+  "title": "Droit français",
+  "topics": "Juridiction compétente",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 60,
+    "tldr": "Soumission au droit français. Pas de clause attributive de juridiction."
+  }
 }

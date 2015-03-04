@@ -1,4 +1,16 @@
 {
-    "id":"dailysanct1",
-"service":"dailymotion","title":"Sanctions civiles et pénales possibles","tosdr": {"tldr":"Sanctions pénales spécifiques au contenu litigieux. Possible condamnation à payer des dommages-intérêts.","point":"neutral", "score": 50},"topics":"indemnify","sources":"terms"}
-
+  "id": "dailysanct1",
+  "service": "dailymotion",
+  "services": [
+    "dailymotion"
+  ],
+  "sources": "terms",
+  "title": "Sanctions civiles et pénales possibles",
+  "topics": "indemnify",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "tldr": "Sanctions pénales spécifiques au contenu litigieux. Possible condamnation à payer des dommages-intérêts."
+  }
+}

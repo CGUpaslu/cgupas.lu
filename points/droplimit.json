@@ -1,2 +1,16 @@
-
-{ "id":"droplimit","service":"Dropbox","title":"20$ de clause limitative de responsabilité","tosdr":{"tldr":"Clause limitative de responsabilité (20 USD) sous reserve qu'elle soit accepté par le droit national de l'utilisateur.","topics":"Clauses limitatives de responsabilité","point":"bad","sources":"https://www.dropbox.com/privacy#terms","score":60}}
+{
+  "id": "droplimit",
+  "service": "Dropbox",
+  "services": [
+    "Dropbox"
+  ],
+  "title": "20$ de clause limitative de responsabilité",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "sources": "https://www.dropbox.com/privacy#terms",
+    "tldr": "Clause limitative de responsabilité (20 USD) sous reserve qu'elle soit accepté par le droit national de l'utilisateur.",
+    "topics": "Clauses limitatives de responsabilité"
+  }
+}

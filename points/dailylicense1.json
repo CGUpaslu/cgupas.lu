@@ -1,4 +1,16 @@
 {
-    "id":"dailylicense1",
-"service":"dailymotion","title":"Utilisateur conserve le droit moral sur son contenu","tosdr": {"tldr":"Utilisateur conserve le droit moral sur son contenu. Faculté pour Dailymotion de reproduire/représenter le contenu. Protection de la PI améliorée pour les professionnels.","point":"good", "score":90},"topics":"copyright-scope","sources":"terms"}
-
+  "id": "dailylicense1",
+  "service": "dailymotion",
+  "services": [
+    "dailymotion"
+  ],
+  "sources": "terms",
+  "title": "Utilisateur conserve le droit moral sur son contenu",
+  "topics": "copyright-scope",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 90,
+    "tldr": "Utilisateur conserve le droit moral sur son contenu. Faculté pour Dailymotion de reproduire/représenter le contenu. Protection de la PI améliorée pour les professionnels."
+  }
+}

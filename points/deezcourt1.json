@@ -1,4 +1,16 @@
-{   
-    "id": "deezcourt1",
-"service":"deezer","title":"Très (trop?) courtes CGU","tosdr":{"tldr":"CGU du service gratuit laconiques et trop peu détaillées.","point":"bad","score":20},"topics":"Autres informations","sources":"http://www.deezer.com/fr/legal/cgu"
+{
+  "id": "deezcourt1",
+  "service": "deezer",
+  "services": [
+    "deezer"
+  ],
+  "sources": "http://www.deezer.com/fr/legal/cgu",
+  "title": "Très (trop?) courtes CGU",
+  "topics": "Autres informations",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 20,
+    "tldr": "CGU du service gratuit laconiques et trop peu détaillées."
+  }
 }

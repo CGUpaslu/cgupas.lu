@@ -1,2 +1,16 @@
-
-{ "id":"dropstop","service":"Dropbox","title":"arrêt à la demande","tosdr":{"tldr":"L'utilisateur peut arrêter d’utiliser nos Services à tout moment. Dropbox se réserve le droit de suspendre ou de mettre fin aux Services à tout moment, avec ou sans motif et avec ou sans préavis. Par exemple, Dropbox peut suspendre ou mettre fin à votre utilisation si vous ne vous conformez pas aux présentes Conditions, ou si l'utilisateur utilise les Services d’une manière susceptible d’engager la responsabilité juridique de Dropbox ou de perturber l’utilisation des Services pour autrui. Si Dropbox suspend ou met fin à votre utilisation, il essaiera de le faire savoir à l’avance et les aidera à récupérer les données, mais la suspension peut être immédiate dans certaines circonstances (par exemple en cas de violation répétée ou flagrante des présentes Conditions, sur ordre d’un tribunal ou en raison d’un danger pour les autres utilisateurs).","topics":"Conditions de résiliation","point":"good","sources":"https://www.dropbox.com/privacy#terms","score":60}}
+{
+  "id": "dropstop",
+  "service": "Dropbox",
+  "services": [
+    "Dropbox"
+  ],
+  "title": "arrêt à la demande",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 60,
+    "sources": "https://www.dropbox.com/privacy#terms",
+    "tldr": "L'utilisateur peut arrêter d’utiliser nos Services à tout moment. Dropbox se réserve le droit de suspendre ou de mettre fin aux Services à tout moment, avec ou sans motif et avec ou sans préavis. Par exemple, Dropbox peut suspendre ou mettre fin à votre utilisation si vous ne vous conformez pas aux présentes Conditions, ou si l'utilisateur utilise les Services d’une manière susceptible d’engager la responsabilité juridique de Dropbox ou de perturber l’utilisation des Services pour autrui. Si Dropbox suspend ou met fin à votre utilisation, il essaiera de le faire savoir à l’avance et les aidera à récupérer les données, mais la suspension peut être immédiate dans certaines circonstances (par exemple en cas de violation répétée ou flagrante des présentes Conditions, sur ordre d’un tribunal ou en raison d’un danger pour les autres utilisateurs).",
+    "topics": "Conditions de résiliation"
+  }
+}

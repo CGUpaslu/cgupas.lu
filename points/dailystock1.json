@@ -1,4 +1,16 @@
 {
-    "id":"dailystock1",
-"service":"dailymotion","title":"Stockage des données pendant un an","tosdr": {"tldr":"Données stockées pendant un an sur des serveurs dont on ne connaît pas la localisation. Collecte déclarée auprès de la CNIL.","point":"neutral", "score":60},"topics":"Stockage des données (modalités et localisation)","sources":"terms"
+  "id": "dailystock1",
+  "service": "dailymotion",
+  "services": [
+    "dailymotion"
+  ],
+  "sources": "terms",
+  "title": "Stockage des données pendant un an",
+  "topics": "Stockage des données (modalités et localisation)",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 60,
+    "tldr": "Données stockées pendant un an sur des serveurs dont on ne connaît pas la localisation. Collecte déclarée auprès de la CNIL."
+  }
 }

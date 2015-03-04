@@ -1,2 +1,16 @@
-{ "id":"dropresp","service":"Dropbox","title":"La responsabilité des utilisateurs à utiliser les contenus de manière responsable","tosdr":{"tldr":"Engagement à utiliser le contenu de façon responsable et notamment à respecter les droits de propriété intellectuelle des tiers.","topics":"Engagements de la part des utilisateurs","point":"good","sources":"https://www.dropbox.com/privacy#terms","score":30}}
-
+{
+  "id": "dropresp",
+  "service": "Dropbox",
+  "services": [
+    "Dropbox"
+  ],
+  "title": "La responsabilité des utilisateurs à utiliser les contenus de manière responsable",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 30,
+    "sources": "https://www.dropbox.com/privacy#terms",
+    "tldr": "Engagement à utiliser le contenu de façon responsable et notamment à respecter les droits de propriété intellectuelle des tiers.",
+    "topics": "Engagements de la part des utilisateurs"
+  }
+}

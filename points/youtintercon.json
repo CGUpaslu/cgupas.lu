@@ -1,2 +1,16 @@
-
-{ "id":"youtintercon","service":"Youtube","title":"Interconnexion de nombreuses CGU","tosdr":{"tldr":"Langage explicite, mais renvoi à de nombreuses autres CGU","topics":"Lisibilité et intelligibilité des CGU","point":"bad","sources":"https://www.youtube.com/t/terms","score":60}}
+{
+  "id": "youtintercon",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Interconnexion de nombreuses CGU",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "Langage explicite, mais renvoi à de nombreuses autres CGU",
+    "topics": "Lisibilité et intelligibilité des CGU"
+  }
+}

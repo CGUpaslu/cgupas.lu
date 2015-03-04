@@ -1,2 +1,16 @@
-
-{ "id":"googcalf","service":"Google","title":"La juridiction californienne compétente","tosdr":{"tldr":"les éventuels litiges liés aux présentes Conditions d’Utilisation seront régis par les lois des États à l’exclusion des règles de conflit de lois de cet État.Si la justice de votre pays ne vous autorise pas à vous pourvoir devant les tribunaux du comté de Santa Clara, Californie, États-Unis, les litiges relevant des présentes seront portés devant les tribunaux compétents de votre lieu de résidence.","topics":"Juridiction compétente","point":"bad","sources":"https://www.google.fr/intl/fr/policies/terms/regional.html","score":50}}
+{
+  "id": "googcalf",
+  "service": "Google",
+  "services": [
+    "Google"
+  ],
+  "title": "La juridiction californienne compétente",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 50,
+    "sources": "https://www.google.fr/intl/fr/policies/terms/regional.html",
+    "tldr": "les éventuels litiges liés aux présentes Conditions d’Utilisation seront régis par les lois des États à l’exclusion des règles de conflit de lois de cet État.Si la justice de votre pays ne vous autorise pas à vous pourvoir devant les tribunaux du comté de Santa Clara, Californie, États-Unis, les litiges relevant des présentes seront portés devant les tribunaux compétents de votre lieu de résidence.",
+    "topics": "Juridiction compétente"
+  }
+}

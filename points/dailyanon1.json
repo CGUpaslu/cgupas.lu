@@ -1,3 +1,16 @@
-{ "id":"dailyanon1",
-"service":"dailymotion","title":"Transmission à des tiers de données anonymisées","tosdr": {"tldr":"Données personnelles peuvent être transmises à des tiers pourvu qu'elles soient anonymisées, sauf en cas d'application de loi ou jugement auquel cas il n'est pas nécessaire d'anonymiser les données.","point":"neutral", "score": 60},"topics":"third","sources":"terms"}
-
+{
+  "id": "dailyanon1",
+  "service": "dailymotion",
+  "services": [
+    "dailymotion"
+  ],
+  "sources": "terms",
+  "title": "Transmission à des tiers de données anonymisées",
+  "topics": "third",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 60,
+    "tldr": "Données personnelles peuvent être transmises à des tiers pourvu qu'elles soient anonymisées, sauf en cas d'application de loi ou jugement auquel cas il n'est pas nécessaire d'anonymiser les données."
+  }
+}

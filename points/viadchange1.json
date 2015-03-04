@@ -8,7 +8,9 @@
   "services": "viadeo",
   "sources": "terms",
   "title": "Modifications à tout moment des CGU",
-  "topics": ["changes-notice"],
+  "topics": [
+    "changes-notice"
+  ],
   "tosdr": {
     "binding": true,
     "point": "blocker",

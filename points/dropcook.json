@@ -1,2 +1,16 @@
-{ "id":"dropcook","service":"Dropbox","title":"Utilisation de cookies","tosdr":{"tldr":"Cookies permanents et cookies d'ouverture de session.","topics":"Utilisation des cookies","point":"neutral","sources":"https://www.dropbox.com/privacy#terms","score":20}}
-
+{
+  "id": "dropcook",
+  "service": "Dropbox",
+  "services": [
+    "Dropbox"
+  ],
+  "title": "Utilisation de cookies",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 20,
+    "sources": "https://www.dropbox.com/privacy#terms",
+    "tldr": "Cookies permanents et cookies d'ouverture de session.",
+    "topics": "Utilisation des cookies"
+  }
+}

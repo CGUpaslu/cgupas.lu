@@ -1,1 +1,16 @@
-{ "service": "dailymotion", "title": "Juridiction française", "tosdr": {"tldr": "Même en cas de pluralité de défendeurs. Effort sera fait pour chercher une solution amiable avant procès.", "point": "good", "score": 70}, "id": "dailyjuri1","sources": "terms","topics": "jurisdiction-law"}
+{
+  "id": "dailyjuri1",
+  "service": "dailymotion",
+  "services": [
+    "dailymotion"
+  ],
+  "sources": "terms",
+  "title": "Juridiction française",
+  "topics": "jurisdiction-law",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 70,
+    "tldr": "Même en cas de pluralité de défendeurs. Effort sera fait pour chercher une solution amiable avant procès."
+  }
+}

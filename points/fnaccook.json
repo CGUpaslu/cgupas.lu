@@ -1,2 +1,16 @@
-{ "id":"fnaccook","service":"Fnac","title":"Utilisation extensive de cookies","tosdr":{"tldr":"Désactivables mais les achats et gestion du panier ne sont plus possibles sans (obligation de fait). Utilisation de cookies par les sociétés partenaires, sans contrôle de la FNAC dessus.","topics":"Utilisation des cookies","point":"bad","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":30}}
-
+{
+  "id": "fnaccook",
+  "service": "Fnac",
+  "services": [
+    "Fnac"
+  ],
+  "title": "Utilisation extensive de cookies",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 30,
+    "sources": "http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",
+    "tldr": "Désactivables mais les achats et gestion du panier ne sont plus possibles sans (obligation de fait). Utilisation de cookies par les sociétés partenaires, sans contrôle de la FNAC dessus.",
+    "topics": "Utilisation des cookies"
+  }
+}

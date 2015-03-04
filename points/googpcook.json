@@ -1,2 +1,16 @@
-
-{ "id":"googpcook","service":"Google Play","title":"Utilisation extensive des cookies","tosdr":{"tldr":"Lors de la consultation d'un livre numérique sur Google Play, Google enregistre, à l'aide de cookies, la requête ou demande de page, l'adresse IP, type et langue du navigateur, date et heure de la requête, 5 dernières pages lues.","topics":"Utilisation des cookies","point":"bad","sources":"https://play.google.com/intl/fr_fr/about/play-terms.html","score":60}}
+{
+  "id": "googpcook",
+  "service": "Google Play",
+  "services": [
+    "Google Play"
+  ],
+  "title": "Utilisation extensive des cookies",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "sources": "https://play.google.com/intl/fr_fr/about/play-terms.html",
+    "tldr": "Lors de la consultation d'un livre numérique sur Google Play, Google enregistre, à l'aide de cookies, la requête ou demande de page, l'adresse IP, type et langue du navigateur, date et heure de la requête, 5 dernières pages lues.",
+    "topics": "Utilisation des cookies"
+  }
+}

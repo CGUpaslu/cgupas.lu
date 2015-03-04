@@ -1,2 +1,16 @@
-
-{ "id":"twitlisib","service":"Twitter","title":"lisible","tosdr":{"tldr":"plutôt bonnes et claires (assez simples) - traduite en Français mais la version anglaise reste la référence)","topics":"Lisibilité et intelligibilité des CGU","point":"good","sources":"https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1852","score":20}}
+{
+  "id": "twitlisib",
+  "service": "Twitter",
+  "services": [
+    "Twitter"
+  ],
+  "title": "lisible",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 20,
+    "sources": "https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1852",
+    "tldr": "plutôt bonnes et claires (assez simples) - traduite en Français mais la version anglaise reste la référence)",
+    "topics": "Lisibilité et intelligibilité des CGU"
+  }
+}

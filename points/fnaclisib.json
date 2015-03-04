@@ -1,2 +1,16 @@
-
-{ "id":"fnaclisib","service":"Fnac","title":"Lisibilité et intelligibilité correctes","tosdr":{"tldr":"Articles relativement courts.","topics":"Lisibilité et intelligibilité des CGU","point":"good","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":20}}
+{
+  "id": "fnaclisib",
+  "service": "Fnac",
+  "services": [
+    "Fnac"
+  ],
+  "title": "Lisibilité et intelligibilité correctes",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 20,
+    "sources": "http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",
+    "tldr": "Articles relativement courts.",
+    "topics": "Lisibilité et intelligibilité des CGU"
+  }
+}

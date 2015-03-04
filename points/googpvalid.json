@@ -1,2 +1,16 @@
-
-{ "id":"googpvalid","service":"Google Play","title":"Validation par l'utilisateur des nouvelles CGU","tosdr":{"tldr":"Si les conditions changent, il nous sera demandé d'accepter les nouvelles conditions préalablement au prochain achat d'un contenu","topics":"Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","point":"good","sources":"https://play.google.com/intl/fr_fr/about/play-terms.html","score":80}}
+{
+  "id": "googpvalid",
+  "service": "Google Play",
+  "services": [
+    "Google Play"
+  ],
+  "title": "Validation par l'utilisateur des nouvelles CGU",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 80,
+    "sources": "https://play.google.com/intl/fr_fr/about/play-terms.html",
+    "tldr": "Si les conditions changent, il nous sera demandé d'accepter les nouvelles conditions préalablement au prochain achat d'un contenu",
+    "topics": "Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs"
+  }
+}

@@ -1,4 +1,16 @@
 {
-    "id":"dailyresil1",
-"service":"dailymotion","title":"Résiliation bilatérale","tosdr": {"tldr":"DM peut mettre fin à notre compte à tout moment et avec préavis si pas de raison manifeste, à tout moment sans préavis si non respect des CGU par l'utilisateur.","point":"bad","score":70},"topics":"Conditions de résiliation","sources":"terms"
+  "id": "dailyresil1",
+  "service": "dailymotion",
+  "services": [
+    "dailymotion"
+  ],
+  "sources": "terms",
+  "title": "Résiliation bilatérale",
+  "topics": "Conditions de résiliation",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 70,
+    "tldr": "DM peut mettre fin à notre compte à tout moment et avec préavis si pas de raison manifeste, à tout moment sans préavis si non respect des CGU par l'utilisateur."
+  }
 }

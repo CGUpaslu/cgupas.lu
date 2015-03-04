@@ -1,2 +1,16 @@
-
-{ "id":"youtstock","service":"Youtube","title":"Stockage de données très nombreuses sur des serveurs dans divers pays","tosdr":{"tldr":"Collecte des données sur le type d'appareil, sur l'activité de l'utilisateur, sa localisation, s'en servent pour actualiser les autres profils google, stockent les données dans de nombreux serveurs à travers le monde, et pour un temps indéfini.","topics":"Stockage des données (modalités et localisation)","point":"bad","sources":"https://www.youtube.com/t/terms","score":60}}
+{
+  "id": "youtstock",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Stockage de données très nombreuses sur des serveurs dans divers pays",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "Collecte des données sur le type d'appareil, sur l'activité de l'utilisateur, sa localisation, s'en servent pour actualiser les autres profils google, stockent les données dans de nombreux serveurs à travers le monde, et pour un temps indéfini.",
+    "topics": "Stockage des données (modalités et localisation)"
+  }
+}

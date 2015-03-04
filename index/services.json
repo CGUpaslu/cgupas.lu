@@ -2,60 +2,123 @@
   "dailymotion": {
     "class": false,
     "links": {},
-    "points": [        "dailyirresp1",
-        "dailysanct1",
-        "dailyanon1",
-        "dailylicense1",
-        "dailyresil1",
-        "dailystock1",
-        "dailycook1",
-        "dailyaccept1",
-        "dailylong1",
-        "dailyinterdi1",
-        "dailyretrait1",
-        "dailyjuri1"
+    "points": [
+      "dailyirresp1",
+      "dailysanct1",
+      "dailyanon1",
+      "dailylicense1",
+      "dailyresil1",
+      "dailystock1",
+      "dailycook1",
+      "dailyaccept1",
+      "dailylong1",
+      "dailyinterdi1",
+      "dailyretrait1",
+      "dailyjuri1"
     ]
   },
   "deezer": {
-      "class":false,
-      "links": {},
-      "points": [        "deezcourt1", "deezdroit1", "deezlicens1", "deezperso1", "deezresil1", "deezresp1"
-        ]
+    "class": false,
+    "links": {},
+    "points": [
+      "deezcourt1",
+      "deezdroit1",
+      "deezlicens1",
+      "deezperso1",
+      "deezresil1",
+      "deezresp1"
+    ]
   },
   "dropbox": {
     "class": false,
     "links": {},
-    "points": ["dropchang", "dropcook", "dropdroit", "droplicens", "droplimit", "droplisib", "dropresp", "dropstock", "dropstop"     ]
+    "points": [
+      "dropchang",
+      "dropcook",
+      "dropdroit",
+      "droplicens",
+      "droplimit",
+      "droplisib",
+      "dropresp",
+      "dropstock",
+      "dropstop"
+    ]
   },
   "facebook": {
     "class": false,
     "links": {},
-    "points": ["facecalf", "facecomment", "faceinfos", "facelicens", "facelimit", "facelisib", "facemoeurs", "facepossibsupr", "facepub", "faceresp", "faceus"     ]
+    "points": [
+      "facecalf",
+      "facecomment",
+      "faceinfos",
+      "facelicens",
+      "facelimit",
+      "facelisib",
+      "facemoeurs",
+      "facepossibsupr",
+      "facepub",
+      "faceresp",
+      "faceus"
+    ]
   },
   "fnac": {
     "class": false,
     "links": {},
-    "points": ["fnaccontrol", "fnaccook", "fnaccrypt", "fnacdom", "fnacfr", "fnaclicens", "fnaclisib", "fnacnotif", "fnacperso", "fnacpoursui", "fnacresp"     ]
+    "points": [
+      "fnaccontrol",
+      "fnaccook",
+      "fnaccrypt",
+      "fnacdom",
+      "fnacfr",
+      "fnaclicens",
+      "fnaclisib",
+      "fnacnotif",
+      "fnacperso",
+      "fnacpoursui",
+      "fnacresp"
+    ]
   },
   "google": {
     "class": false,
     "links": {},
-    "points": ["googcalf", "googcoll", "googcomm"     ]
+    "points": [
+      "googcalf",
+      "googcoll",
+      "googcomm"
+    ]
   },
   "google-play": {
     "class": false,
     "links": {},
-    "points": ["googpcalif", "googpcook", "googpintercon", "googplicens", "googpsanc", "googpsuprr", "googptransm", "googpus", "googpvalid", "googresp"     ]
+    "points": [
+      "googpcalif",
+      "googpcook",
+      "googpintercon",
+      "googplicens",
+      "googpsanc",
+      "googpsuprr",
+      "googptransm",
+      "googpus",
+      "googpvalid",
+      "googresp"
+    ]
   },
   "instagram": {
     "class": false,
     "links": {},
-    "points": ["instagchang", "instagconserv", "instagfr", "instaglicens", "instagprotec", "instagrlimit"]
+    "points": [
+      "instagchang",
+      "instagconserv",
+      "instagfr",
+      "instaglicens",
+      "instagprotec",
+      "instagrlimit"
+    ]
   },
   "linkedin": {
     "class": false,
     "links": {},
-    "points": [ 
+    "points": [
       "linkjuri8",
       "linkresp1",
       "linkliens1",
@@ -72,23 +135,48 @@
   "soundcloud": {
     "class": false,
     "links": {},
-    "points": ["soundcomm", "soundcook", "soundde", "soundenga", "soundeng", "soundmodif", "soundold", "soundpub", "soundresp"     ]
+    "points": [
+      "soundcomm",
+      "soundcook",
+      "soundde",
+      "soundenga",
+      "soundeng",
+      "soundmodif",
+      "soundold",
+      "soundpub",
+      "soundresp"
+    ]
   },
   "sugarsync": {
     "class": false,
     "links": {},
-    "points": ["sugarcalif", "sugarcomm", "sugarlicens", "sugarlimit", "sugeren"     ]
+    "points": [
+      "sugarcalif",
+      "sugarcomm",
+      "sugarlicens",
+      "sugarlimit",
+      "sugeren"
+    ]
   },
   "twitter": {
     "class": false,
     "links": {},
-    "points": ["twitcalf", "twitconsent", "twitlicens", "twitlimita", "twitlisib", "twitnonpriv", "twitparl", "twitresil"
+    "points": [
+      "twitcalf",
+      "twitconsent",
+      "twitlicens",
+      "twitlimita",
+      "twitlisib",
+      "twitnonpriv",
+      "twitparl",
+      "twitresil"
     ]
   },
   "viadeo": {
     "class": false,
     "links": {},
-    "points": ["viadjuri1", 
+    "points": [
+      "viadjuri1",
       "viadresp1",
       "viadcommdata1",
       "viadutilis1",
@@ -103,6 +191,20 @@
   "youtube": {
     "class": false,
     "links": {},
-    "points": ["yourmesur", "youtcgu", "youtconten", "youtcook", "youtdispos", "youtfr", "youtintercon", "youtmesur", "youtrertrait", "youtresil", "youtresp", "youtstock", "youttaci"     ]
+    "points": [
+      "yourmesur",
+      "youtcgu",
+      "youtconten",
+      "youtcook",
+      "youtdispos",
+      "youtfr",
+      "youtintercon",
+      "youtmesur",
+      "youtrertrait",
+      "youtresil",
+      "youtresp",
+      "youtstock",
+      "youttaci"
+    ]
   }
 }

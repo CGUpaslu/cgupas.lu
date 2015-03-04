@@ -1,2 +1,16 @@
-
-{ "id":"instagrlimit","service":"Instagram","title":"100$ de clause limitative de responsabilité","tosdr":{"tldr":"1. Clause limitative de responsabilité. En aucun cas, l'indemnité due par Instagram ne pourra dépasser 100 dollars","topics":"Clauses limitatives de responsabilité","point":"bad","sources":"http://instagram.com/about/legal/terms/","score":50}}
+{
+  "id": "instagrlimit",
+  "service": "Instagram",
+  "services": [
+    "Instagram"
+  ],
+  "title": "100$ de clause limitative de responsabilité",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 50,
+    "sources": "http://instagram.com/about/legal/terms/",
+    "tldr": "1. Clause limitative de responsabilité. En aucun cas, l'indemnité due par Instagram ne pourra dépasser 100 dollars",
+    "topics": "Clauses limitatives de responsabilité"
+  }
+}

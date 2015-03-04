@@ -1,1 +1,16 @@
-{ "id":"dropdroit","service":"Dropbox","title":"Droit californien applicable, sous réserve des règles de conflit de lois","tosdr":{"tldr":"Pas de clause attributive de juridiction mais application du droit californien sous reserve des règles de conflit de lois.","topics":"Juridiction compétente","point":"neutral","sources":"https://www.dropbox.com/privacy#terms","score":50}}
+{
+  "id": "dropdroit",
+  "service": "Dropbox",
+  "services": [
+    "Dropbox"
+  ],
+  "title": "Droit californien applicable, sous réserve des règles de conflit de lois",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "sources": "https://www.dropbox.com/privacy#terms",
+    "tldr": "Pas de clause attributive de juridiction mais application du droit californien sous reserve des règles de conflit de lois.",
+    "topics": "Juridiction compétente"
+  }
+}

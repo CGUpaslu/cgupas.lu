@@ -1,2 +1,16 @@
-
-{ "id":"soundold","service":"Soundcloud","title":"Old school: Résiliation par courrier postal","tosdr":{"tldr":"Résiliation conditionnée à l'envoi d'un courrier postal le notifiant à SC (suppression du compte et de tous ses contenus). SC se réserve aussi ce droit en cas de violation répétée des CGU. Droit d'annulation de la création du compte par l'utilisateur issu de l'UE dans les 14 jours suivant la création du compte et via courrier postal.","topics":"Conditions de résiliation","point":"bad","sources":"https://soundcloud.com/terms-of-use","score":65}}
+{
+  "id": "soundold",
+  "service": "Soundcloud",
+  "services": [
+    "Soundcloud"
+  ],
+  "title": "Old school: Résiliation par courrier postal",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 65,
+    "sources": "https://soundcloud.com/terms-of-use",
+    "tldr": "Résiliation conditionnée à l'envoi d'un courrier postal le notifiant à SC (suppression du compte et de tous ses contenus). SC se réserve aussi ce droit en cas de violation répétée des CGU. Droit d'annulation de la création du compte par l'utilisateur issu de l'UE dans les 14 jours suivant la création du compte et via courrier postal.",
+    "topics": "Conditions de résiliation"
+  }
+}

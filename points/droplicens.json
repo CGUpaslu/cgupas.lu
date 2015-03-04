@@ -1,2 +1,16 @@
-{ "id":"droplicens","service":"Dropbox","title":"aucune communication, aucun droit à Dropbox","tosdr":{"tldr":"Dropobox ne revendique aucun droit de propriété sur le contenu déposé par l'utilisateur. Il ne communiquera le contenu privé à personne, pas même à une autorité d'exécution de la loi.","topics":"Relations avec les tiers","point":"good","sources":"https://www.dropbox.com/privacy#terms","score":80}}
-
+{
+  "id": "droplicens",
+  "service": "Dropbox",
+  "services": [
+    "Dropbox"
+  ],
+  "title": "aucune communication, aucun droit à Dropbox",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 80,
+    "sources": "https://www.dropbox.com/privacy#terms",
+    "tldr": "Dropobox ne revendique aucun droit de propriété sur le contenu déposé par l'utilisateur. Il ne communiquera le contenu privé à personne, pas même à une autorité d'exécution de la loi.",
+    "topics": "Relations avec les tiers"
+  }
+}

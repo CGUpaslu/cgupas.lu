@@ -1,2 +1,16 @@
-
-{ "id":"twitresil","service":"Twitter","title":"Aucune résiliation possible","tosdr":{"tldr":"-        Possible désactivation du compte mais pas de résiliation (seulement si décidée par Twitter)","topics":"Conditions de résiliation","point":"blocker","sources":"https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1848","score":90}}
+{
+  "id": "twitresil",
+  "service": "Twitter",
+  "services": [
+    "Twitter"
+  ],
+  "title": "Aucune résiliation possible",
+  "tosdr": {
+    "binding": true,
+    "point": "blocker",
+    "score": 90,
+    "sources": "https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1848",
+    "tldr": "-        Possible désactivation du compte mais pas de résiliation (seulement si décidée par Twitter)",
+    "topics": "Conditions de résiliation"
+  }
+}

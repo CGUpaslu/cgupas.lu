@@ -1,2 +1,16 @@
-
-{ "id":"youtcook","service":"Youtube","title":"Utilisation contrainte des cookies","tosdr":{"tldr":"Possibilité d'en désactiver certains, mais le service est susceptible de ne plus fonctionner.","topics":"Utilisation des cookies","point":"neutral","sources":"https://www.youtube.com/t/terms","score":40}}
+{
+  "id": "youtcook",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Utilisation contrainte des cookies",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 40,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "Possibilité d'en désactiver certains, mais le service est susceptible de ne plus fonctionner.",
+    "topics": "Utilisation des cookies"
+  }
+}

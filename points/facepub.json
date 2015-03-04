@@ -1,2 +1,16 @@
-
-{ "id":"facepub","service":"Facebook","title":"de la commercialisation des infos à la publicité ciblée","tosdr":{"tldr":"1/  Votre nom, vos photos de profil, votre sexe, vos photos de couverture, vos réseaux, votre nom d’utilisateur et votre identifiant sont traités comme toute autre information que vous choisissez de rendre publique<br />2/ -        Nous utilisons les informations que nous recevons pour les services et les fonctions que nous vous fournissons, à vous et à d’autres utilisateurs, tels que vos amis, nos partenaires, les annonceurs qui achètent des publicités sur le site, et les développeurs qui conçoivent les jeux, les applications et les sites web que vous utilisez<br />3/  L’utilisateur donne la permission, selon ses paramètres, d’utiliser nom et photo de profil en association à du contenu commercial (publicité ciblée)","topics":"Relations avec les tiers","point":"blocker","sources":"https://www.facebook.com/legal/terms","score":100}}
+{
+  "id": "facepub",
+  "service": "Facebook",
+  "services": [
+    "Facebook"
+  ],
+  "title": "de la commercialisation des infos à la publicité ciblée",
+  "tosdr": {
+    "binding": true,
+    "point": "blocker",
+    "score": 100,
+    "sources": "https://www.facebook.com/legal/terms",
+    "tldr": "1/  Votre nom, vos photos de profil, votre sexe, vos photos de couverture, vos réseaux, votre nom d’utilisateur et votre identifiant sont traités comme toute autre information que vous choisissez de rendre publique<br />2/ -        Nous utilisons les informations que nous recevons pour les services et les fonctions que nous vous fournissons, à vous et à d’autres utilisateurs, tels que vos amis, nos partenaires, les annonceurs qui achètent des publicités sur le site, et les développeurs qui conçoivent les jeux, les applications et les sites web que vous utilisez<br />3/  L’utilisateur donne la permission, selon ses paramètres, d’utiliser nom et photo de profil en association à du contenu commercial (publicité ciblée)",
+    "topics": "Relations avec les tiers"
+  }
+}

@@ -1,2 +1,16 @@
-
-{ "id":"sugarlicens","service":"SugarSync","title":"Licence d'utilisation non exclusive et non transférable","tosdr":{"tldr":"Licence d'utilisation non exclusive et non transférable","topics":"Droit accordés aux utilisateurs (licences)","point":"neutral","sources":"https://www.sugarsync.com/terms.html","score":40}}
+{
+  "id": "sugarlicens",
+  "service": "SugarSync",
+  "services": [
+    "SugarSync"
+  ],
+  "title": "Licence d'utilisation non exclusive et non transférable",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 40,
+    "sources": "https://www.sugarsync.com/terms.html",
+    "tldr": "Licence d'utilisation non exclusive et non transférable",
+    "topics": "Droit accordés aux utilisateurs (licences)"
+  }
+}

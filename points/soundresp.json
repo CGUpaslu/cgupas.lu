@@ -1,2 +1,16 @@
-
-{ "id":"soundresp","service":"Soundcloud","title":"Pas de responsabilité de Soundcloud","tosdr":{"tldr":"Pas de responsabilité pour les pertes ou dommages causés suite à: 1. l'impossibilité d'accès  au service partielle ou totale, 2. une action intentée contre l'utilisateur par un tiers concernant l'utilisation du service, 3.  un problème causé par le service à l'ordinateur (harware, software, data) de l'utilisateur, 4. une violation de Soundcloud de ses propres CGU","topics":"Clauses limitatives de responsabilité","point":"bad","sources":"https://soundcloud.com/terms-of-use","score":50}}
+{
+  "id": "soundresp",
+  "service": "Soundcloud",
+  "services": [
+    "Soundcloud"
+  ],
+  "title": "Pas de responsabilité de Soundcloud",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 50,
+    "sources": "https://soundcloud.com/terms-of-use",
+    "tldr": "Pas de responsabilité pour les pertes ou dommages causés suite à: 1. l'impossibilité d'accès  au service partielle ou totale, 2. une action intentée contre l'utilisateur par un tiers concernant l'utilisation du service, 3.  un problème causé par le service à l'ordinateur (harware, software, data) de l'utilisateur, 4. une violation de Soundcloud de ses propres CGU",
+    "topics": "Clauses limitatives de responsabilité"
+  }
+}

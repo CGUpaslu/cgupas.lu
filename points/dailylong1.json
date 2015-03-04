@@ -1,4 +1,16 @@
 {
-    "id":"dailylong1",
-"service":"dailymotion","title":"Interconnexion de plusieurs CGU","tosdr": {"tldr":"Différents textes régissent l'utilisation de Dailymotion. Tous les lire peut s'avérer long.","point":"bad","score":60},"topics":"Lisibilité et intelligibilité des CGU","sources":"terms"
+  "id": "dailylong1",
+  "service": "dailymotion",
+  "services": [
+    "dailymotion"
+  ],
+  "sources": "terms",
+  "title": "Interconnexion de plusieurs CGU",
+  "topics": "Lisibilité et intelligibilité des CGU",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "tldr": "Différents textes régissent l'utilisation de Dailymotion. Tous les lire peut s'avérer long."
+  }
 }

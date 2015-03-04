@@ -1,2 +1,16 @@
-
-{ "id":"fnacperso","service":"Fnac","title":"Utilisation large des données-utilisateurs par les tiers","tosdr":{"tldr":"Données personnelles peuvent être transmises à des sociétés partenaires non identifiées. Les données sont conservées par les prestataires tiers même en cas de suppression du compte FNAC.","topics":"Relations avec les tiers","point":"bad","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":60}}
+{
+  "id": "fnacperso",
+  "service": "Fnac",
+  "services": [
+    "Fnac"
+  ],
+  "title": "Utilisation large des données-utilisateurs par les tiers",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "sources": "http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",
+    "tldr": "Données personnelles peuvent être transmises à des sociétés partenaires non identifiées. Les données sont conservées par les prestataires tiers même en cas de suppression du compte FNAC.",
+    "topics": "Relations avec les tiers"
+  }
+}

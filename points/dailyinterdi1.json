@@ -1,3 +1,16 @@
 {
-    "id":"dailyinterdi1",
-"service":"dailymotion","title":"Interdiction de disposer du contenu","tosdr": {"tldr":"Interdiction d'utiliser le contenu à des fins commerciales, de le copier, altérer, modifier, transmettre, diffuser, etc.","point":"neutral","score":50},"topics":"Engagements de la part des utilisateurs","sources":"terms"}
+  "id": "dailyinterdi1",
+  "service": "dailymotion",
+  "services": [
+    "dailymotion"
+  ],
+  "sources": "terms",
+  "title": "Interdiction de disposer du contenu",
+  "topics": "Engagements de la part des utilisateurs",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "tldr": "Interdiction d'utiliser le contenu à des fins commerciales, de le copier, altérer, modifier, transmettre, diffuser, etc."
+  }
+}

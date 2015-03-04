@@ -1,4 +1,16 @@
-
 {
-    "id":"dailyretrait1",
-"service":"dailymotion","title":"Procédure de retrait de contenu litigieux","tosdr": {"tldr":"Possible d'émettre une notification pour demander le retrait de contenu litigieux (atteinte aux droits d'auteur, contenu odieux). Possible d'émettre une contre-notitfication pour s'opposer au retrait. Tout notifiant de mauvaise foi s'expose à une amende.","point":"good","score":80},"topics":"Autres informations","sources":"terms"}
+  "id": "dailyretrait1",
+  "service": "dailymotion",
+  "services": [
+    "dailymotion"
+  ],
+  "sources": "terms",
+  "title": "Procédure de retrait de contenu litigieux",
+  "topics": "Autres informations",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 80,
+    "tldr": "Possible d'émettre une notification pour demander le retrait de contenu litigieux (atteinte aux droits d'auteur, contenu odieux). Possible d'émettre une contre-notitfication pour s'opposer au retrait. Tout notifiant de mauvaise foi s'expose à une amende."
+  }
+}

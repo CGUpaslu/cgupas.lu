@@ -1,2 +1,16 @@
-
-{ "id":"youtmesur","service":"Youtube","title":"Mesures conservatoires et coopération avec les autorités","tosdr":{"tldr":"Mesures conservatoires peuvent être prises à l'encontre de l'utilisateur. YT peut signaler à toute force de l'ordre l'exploitation sexuelle d'enfants pour amener des poursuites.","topics":"Poursuites possibles","point":"neutral","sources":"https://www.youtube.com/t/terms","score":60}}
+{
+  "id": "youtmesur",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Mesures conservatoires et coopération avec les autorités",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 60,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "Mesures conservatoires peuvent être prises à l'encontre de l'utilisateur. YT peut signaler à toute force de l'ordre l'exploitation sexuelle d'enfants pour amener des poursuites.",
+    "topics": "Poursuites possibles"
+  }
+}

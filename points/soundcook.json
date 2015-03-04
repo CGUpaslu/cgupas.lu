@@ -1,2 +1,16 @@
-
-{ "id":"soundcook","service":"Soundcloud","title":"Cookies désactivables ou blocables","tosdr":{"tldr":"Utilisation des cookies. Cookies désactivables ou bloquables.","topics":"Utilisation des cookies","point":"neutral","sources":"https://soundcloud.com/terms-of-use","score":30}}
+{
+  "id": "soundcook",
+  "service": "Soundcloud",
+  "services": [
+    "Soundcloud"
+  ],
+  "title": "Cookies désactivables ou blocables",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 30,
+    "sources": "https://soundcloud.com/terms-of-use",
+    "tldr": "Utilisation des cookies. Cookies désactivables ou bloquables.",
+    "topics": "Utilisation des cookies"
+  }
+}

@@ -1,2 +1,16 @@
-
-{ "id":"googcoll","service":"Google","title":"Importante collection de données (IP) et communication relative","tosdr":{"tldr":"-        Collection de données directement par l’utilisateur et indirectement par son utilisation (ex : site web utilisant leurs services publicitaires)<br />o        Enregistrement de l’adresse IP, les requêtes de recherche…<br />        Pour choix du langage proposé et publicité ciblées<br /><br />-        Communiquent les données personnelles à des entreprises, des organisations ou des personnes tierces que dans les circonstances suivantes :<br />o        Demande de consentement<br />o        Avec des administrateurs de domaine<br />o        Pour des besoins de traitement externe<br />o        Pour des raisons juridiques","topics":"Relations avec les tiers","point":"blocker","sources":"https://www.google.fr/intl/fr/policies/terms/regional.html","score":90}}
+{
+  "id": "googcoll",
+  "service": "Google",
+  "services": [
+    "Google"
+  ],
+  "title": "Importante collection de données (IP) et communication relative",
+  "tosdr": {
+    "binding": true,
+    "point": "blocker",
+    "score": 90,
+    "sources": "https://www.google.fr/intl/fr/policies/terms/regional.html",
+    "tldr": "-        Collection de données directement par l’utilisateur et indirectement par son utilisation (ex : site web utilisant leurs services publicitaires)<br />o        Enregistrement de l’adresse IP, les requêtes de recherche…<br />        Pour choix du langage proposé et publicité ciblées<br /><br />-        Communiquent les données personnelles à des entreprises, des organisations ou des personnes tierces que dans les circonstances suivantes :<br />o        Demande de consentement<br />o        Avec des administrateurs de domaine<br />o        Pour des besoins de traitement externe<br />o        Pour des raisons juridiques",
+    "topics": "Relations avec les tiers"
+  }
+}

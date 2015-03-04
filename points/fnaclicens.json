@@ -1,2 +1,16 @@
-
-{ "id":"fnaclicens","service":"Fnac","title":"Licences d'utilisation restrictives","tosdr":{"tldr":"Contenou sous droit d'auteur réservé à un usage privé sous réserves de dispositions plus restrictives. Logiciels soumis à des droits d'utilisations spécifiques. Contenu protégé par des DRM de degrés variables. Pas de rétractation sur l'achat de contenu numérique. Interdiction de revendre, échanger, louer ou transférer le contenu numérique à un tiers.","topics":"Droit accordés aux utilisateurs (licences)","point":"Neutral/Bad","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":40}}
+{
+  "id": "fnaclicens",
+  "service": "Fnac",
+  "services": [
+    "Fnac"
+  ],
+  "title": "Licences d'utilisation restrictives",
+  "tosdr": {
+    "binding": true,
+    "point": "Neutral/Bad",
+    "score": 40,
+    "sources": "http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",
+    "tldr": "Contenou sous droit d'auteur réservé à un usage privé sous réserves de dispositions plus restrictives. Logiciels soumis à des droits d'utilisations spécifiques. Contenu protégé par des DRM de degrés variables. Pas de rétractation sur l'achat de contenu numérique. Interdiction de revendre, échanger, louer ou transférer le contenu numérique à un tiers.",
+    "topics": "Droit accordés aux utilisateurs (licences)"
+  }
+}

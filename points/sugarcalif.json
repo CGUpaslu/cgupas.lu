@@ -1,2 +1,16 @@
-
-{ "id":"sugarcalif","service":"SugarSync","title":"La Californie!","tosdr":{"tldr":"Juridiction exclusivement compétente des tribunaux du Comté de Santa Clara, Californie. Application du droit de l'Etat de Californie","topics":"Juridiction compétente","point":"bad","sources":"https://www.sugarsync.com/terms.html","score":50}}
+{
+  "id": "sugarcalif",
+  "service": "SugarSync",
+  "services": [
+    "SugarSync"
+  ],
+  "title": "La Californie!",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 50,
+    "sources": "https://www.sugarsync.com/terms.html",
+    "tldr": "Juridiction exclusivement compétente des tribunaux du Comté de Santa Clara, Californie. Application du droit de l'Etat de Californie",
+    "topics": "Juridiction compétente"
+  }
+}

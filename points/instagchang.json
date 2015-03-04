@@ -1,2 +1,16 @@
-
-{ "id":"instagchang","service":"Instagram","title":"Faible communication des CGU aux changements rétroactifs","tosdr":{"tldr":"La modification des CGU n'est pas soumise à l'approbation de l'utilisateur. Il est prévu qu'en cas de modification importante, l'utilisateur en soit informé par un message apparaissant sur la page d'accueil du site. Cette notification n'est pas une obligation. L'utilisation du service après la date de mise à jour des conditions vaut acceptation. Les nouvelles CGU sont rétroactives : elles s'appliquent aux litiges nés antérieurement à leur publication. La modification des CGU «for legal or administrative reasons» n'est soumise à aucune procédure de publication et de notification à l'utilisateur","topics":"Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","point":"neutral","sources":"http://instagram.com/about/legal/terms/","score":30}}
+{
+  "id": "instagchang",
+  "service": "Instagram",
+  "services": [
+    "Instagram"
+  ],
+  "title": "Faible communication des CGU aux changements rétroactifs",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 30,
+    "sources": "http://instagram.com/about/legal/terms/",
+    "tldr": "La modification des CGU n'est pas soumise à l'approbation de l'utilisateur. Il est prévu qu'en cas de modification importante, l'utilisateur en soit informé par un message apparaissant sur la page d'accueil du site. Cette notification n'est pas une obligation. L'utilisation du service après la date de mise à jour des conditions vaut acceptation. Les nouvelles CGU sont rétroactives : elles s'appliquent aux litiges nés antérieurement à leur publication. La modification des CGU «for legal or administrative reasons» n'est soumise à aucune procédure de publication et de notification à l'utilisateur",
+    "topics": "Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs"
+  }
+}

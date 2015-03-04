@@ -1,2 +1,16 @@
-{ "id":"facecomment","service":"Facebook","title":"Possibilité de commenter les changements et information continue","tosdr":{"tldr":"1/  possibilité de faire des commentaires sur les modifications apportées à la présente Déclaration dans un délai de sept (7) jours (par exemple en publiant l’objet de la modification sur la Page Facebook Site Governance).<br />2/  Information de changement des CGU sur  la Facebook Site Governance Page<br />3/  Acceptation tacite du changement des CGU par la poursuite de l’utilisation","topics":"Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","point":"good","sources":"https://www.facebook.com/legal/terms","score":50}}
-
+{
+  "id": "facecomment",
+  "service": "Facebook",
+  "services": [
+    "Facebook"
+  ],
+  "title": "Possibilité de commenter les changements et information continue",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 50,
+    "sources": "https://www.facebook.com/legal/terms",
+    "tldr": "1/  possibilité de faire des commentaires sur les modifications apportées à la présente Déclaration dans un délai de sept (7) jours (par exemple en publiant l’objet de la modification sur la Page Facebook Site Governance).<br />2/  Information de changement des CGU sur  la Facebook Site Governance Page<br />3/  Acceptation tacite du changement des CGU par la poursuite de l’utilisation",
+    "topics": "Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs"
+  }
+}

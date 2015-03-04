@@ -1,2 +1,16 @@
-
-{ "id":"youtretrait","service":"Youtube","title":"Procédure de retrait de contenu litigieux","tosdr":{"tldr":"Si demande de suppression pour atteinte au droit d'auteur d'un contenu par un utilisateur est complète et légitime, suppression de la vidéo et avertissement à l'utilisateur. Possibilité de demander à l'ayant droit du contenu litigieux qu'il retire sa revendication pour atteinte aux droits d'auteur. Possibilité de réhabilitation de la vidéo si elle est supprimée à tort.","topics":"Autres informations","point":"good","sources":"https://www.youtube.com/t/terms","score":80}}
+{
+  "id": "youtretrait",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Procédure de retrait de contenu litigieux",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 80,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "Si demande de suppression pour atteinte au droit d'auteur d'un contenu par un utilisateur est complète et légitime, suppression de la vidéo et avertissement à l'utilisateur. Possibilité de demander à l'ayant droit du contenu litigieux qu'il retire sa revendication pour atteinte aux droits d'auteur. Possibilité de réhabilitation de la vidéo si elle est supprimée à tort.",
+    "topics": "Autres informations"
+  }
+}

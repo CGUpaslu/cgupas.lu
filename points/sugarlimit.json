@@ -1,2 +1,16 @@
-
-{ "id":"sugarlimit","service":"SugarSync","title":"Clause limitative de responsabilité maximale","tosdr":{"tldr":"Clause limitative de responsabilité maximale selon la loi applicable et sous reserve que la législation de la l'utilisateur le permette.","topics":"Clauses limitatives de responsabilité","point":"bad","sources":"https://www.sugarsync.com/terms.html","score":70}}
+{
+  "id": "sugarlimit",
+  "service": "SugarSync",
+  "services": [
+    "SugarSync"
+  ],
+  "title": "Clause limitative de responsabilité maximale",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 70,
+    "sources": "https://www.sugarsync.com/terms.html",
+    "tldr": "Clause limitative de responsabilité maximale selon la loi applicable et sous reserve que la législation de la l'utilisateur le permette.",
+    "topics": "Clauses limitatives de responsabilité"
+  }
+}

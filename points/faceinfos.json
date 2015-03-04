@@ -1,2 +1,16 @@
-
-{ "id":"faceinfos","service":"Facebook","title":"Des infos stockées à notre insu","tosdr":{"tldr":"1/ Lorsque vous publiez des informations telles que des photos ou des vidéos sur Facebook, nous pouvons recevoir des données supplémentaires (ou métadonnées), comme l’heure, la date et l’endroit où vous avez pris la photo ou la vidéo. […] Nous recevons les données de l’ordinateur, du téléphone portable ou de tout autre appareil que vous pouvez utiliser pour accéder à Facebook, y compris lorsque plusieurs utilisateurs se connectent à partir du même appareil. Cela peut comprendre votre adresse IP et d’autres informations comme votre fournisseur d’accès à internet, le lieu, le type de navigateur que vous utilisez ou les pages que vous consultez. Par exemple, nous pouvons obtenir vos coordonnées GPS ou d’autres informations de géolocalisation pour vous indiquer si certains de vos amis sont à proximité","topics":"Autres informations","point":"bad","sources":"https://www.facebook.com/legal/terms","score":60}}
+{
+  "id": "faceinfos",
+  "service": "Facebook",
+  "services": [
+    "Facebook"
+  ],
+  "title": "Des infos stockées à notre insu",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "sources": "https://www.facebook.com/legal/terms",
+    "tldr": "1/ Lorsque vous publiez des informations telles que des photos ou des vidéos sur Facebook, nous pouvons recevoir des données supplémentaires (ou métadonnées), comme l’heure, la date et l’endroit où vous avez pris la photo ou la vidéo. […] Nous recevons les données de l’ordinateur, du téléphone portable ou de tout autre appareil que vous pouvez utiliser pour accéder à Facebook, y compris lorsque plusieurs utilisateurs se connectent à partir du même appareil. Cela peut comprendre votre adresse IP et d’autres informations comme votre fournisseur d’accès à internet, le lieu, le type de navigateur que vous utilisez ou les pages que vous consultez. Par exemple, nous pouvons obtenir vos coordonnées GPS ou d’autres informations de géolocalisation pour vous indiquer si certains de vos amis sont à proximité",
+    "topics": "Autres informations"
+  }
+}

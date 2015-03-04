@@ -1,2 +1,16 @@
-
-{ "id":"fnacfr","service":"Fnac","title":"Droit français","tosdr":{"tldr":"Compétence des tribunaux français. ","topics":"Juridiction compétente","point":"good","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":80}}
+{
+  "id": "fnacfr",
+  "service": "Fnac",
+  "services": [
+    "Fnac"
+  ],
+  "title": "Droit français",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 80,
+    "sources": "http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",
+    "tldr": "Compétence des tribunaux français. ",
+    "topics": "Juridiction compétente"
+  }
+}

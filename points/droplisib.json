@@ -1,2 +1,16 @@
-
-{ "id":"droplisib","service":"Dropbox","title":"Bonne lisibilité","tosdr":{"tldr":"Bonne lisibilité.","topics":"Lisibilité et intelligibilité des CGU","point":"good","sources":"https://www.dropbox.com/privacy#terms","score":30}}
+{
+  "id": "droplisib",
+  "service": "Dropbox",
+  "services": [
+    "Dropbox"
+  ],
+  "title": "Bonne lisibilité",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 30,
+    "sources": "https://www.dropbox.com/privacy#terms",
+    "tldr": "Bonne lisibilité.",
+    "topics": "Lisibilité et intelligibilité des CGU"
+  }
+}

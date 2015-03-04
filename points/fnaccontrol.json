@@ -1,1 +1,16 @@
-{ "id":"fnaccontrol","service":"Fnac","title":"Pas de contrôle sur la suppression des données personnelles","tosdr":{"tldr":"Données transmises à des prestataires tiers sont conservées par ceux-ci même en cas de suppression du compte FNAC.","topics":"Conditions de résiliation","point":"bad","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":50}}
+{
+  "id": "fnaccontrol",
+  "service": "Fnac",
+  "services": [
+    "Fnac"
+  ],
+  "title": "Pas de contrôle sur la suppression des données personnelles",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 50,
+    "sources": "http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",
+    "tldr": "Données transmises à des prestataires tiers sont conservées par ceux-ci même en cas de suppression du compte FNAC.",
+    "topics": "Conditions de résiliation"
+  }
+}

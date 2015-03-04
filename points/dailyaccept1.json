@@ -1,4 +1,16 @@
 {
-    "id":"dailyaccept1",
-"service":"dailymotion","title":"Utilisation vaut acceptation tacite","tosdr": {"tldr":"Pas de notification lors de la modification des CGU, seulement une « mention particulière » sur le site.","point":"bad","score":60},"topics":"Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","sources":"terms"
+  "id": "dailyaccept1",
+  "service": "dailymotion",
+  "services": [
+    "dailymotion"
+  ],
+  "sources": "terms",
+  "title": "Utilisation vaut acceptation tacite",
+  "topics": "Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "tldr": "Pas de notification lors de la modification des CGU, seulement une « mention particulière » sur le site."
+  }
 }

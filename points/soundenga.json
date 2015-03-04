@@ -1,2 +1,16 @@
-
-{ "id":"soundenga","service":"Soundcloud","title":"Nombreux engagements de l'utilisateurs à la bonne utilisation des services de SoundCloud","tosdr":{"tldr":"Engagements notables de l'utilisateur via l'acceptation des CGU à ne pas:<br>1. copier, télécharger, publier, jouer, exploiter ou communiquer au public un contenu audio d'un autre utilisateur publié sur le service.<br>2. produire un contenu offensant, abusif, diffamant, raciste, indécent, faisant l'éloge du terrorisme, de la violence ou à caractère sexuel.<br>3. commettre, encourager, promouvoir aucune sorte d'infractions.<br>4. ...","topics":"Engagements de la part des utilisateurs","point":"neutral","sources":"https://soundcloud.com/terms-of-use","score":40}}
+{
+  "id": "soundenga",
+  "service": "Soundcloud",
+  "services": [
+    "Soundcloud"
+  ],
+  "title": "Nombreux engagements de l'utilisateurs à la bonne utilisation des services de SoundCloud",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 40,
+    "sources": "https://soundcloud.com/terms-of-use",
+    "tldr": "Engagements notables de l'utilisateur via l'acceptation des CGU à ne pas:<br>1. copier, télécharger, publier, jouer, exploiter ou communiquer au public un contenu audio d'un autre utilisateur publié sur le service.<br>2. produire un contenu offensant, abusif, diffamant, raciste, indécent, faisant l'éloge du terrorisme, de la violence ou à caractère sexuel.<br>3. commettre, encourager, promouvoir aucune sorte d'infractions.<br>4. ...",
+    "topics": "Engagements de la part des utilisateurs"
+  }
+}

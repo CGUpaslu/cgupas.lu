@@ -8,7 +8,9 @@
   "services": "viadeo",
   "sources": "terms",
   "title": "Résiliation par le membre ou désactivation par Viadeo en cas d’inactivité",
-  "topics": ["suspension"],
+  "topics": [
+    "suspension"
+  ],
   "tosdr": {
     "binding": true,
     "point": "good",

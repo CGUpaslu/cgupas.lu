@@ -1,2 +1,16 @@
-
-{ "id":"soundde","service":"Soundcloud","title":"Deutsche Qualität","tosdr":{"tldr":"Juridiction exclusive compétente des tribunaux de Berlin (Allemagne). Exclusion des principes de conflit de lois de droit international privé et de la Convention des NU sur les CISG.","topics":"Juridiction compétente","point":"neutral","sources":"https://soundcloud.com/terms-of-use","score":50}}
+{
+  "id": "soundde",
+  "service": "Soundcloud",
+  "services": [
+    "Soundcloud"
+  ],
+  "title": "Deutsche Qualität",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "sources": "https://soundcloud.com/terms-of-use",
+    "tldr": "Juridiction exclusive compétente des tribunaux de Berlin (Allemagne). Exclusion des principes de conflit de lois de droit international privé et de la Convention des NU sur les CISG.",
+    "topics": "Juridiction compétente"
+  }
+}

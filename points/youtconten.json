@@ -1,2 +1,16 @@
-
-{ "id":"youtconten","service":"Youtube","title":"Licence large accordée à YT sur le contenu","tosdr":{"tldr":"YT peut supprimer tout contenu contrevenant de façon discrétionnaire. En uploadant, l'utilsateur cède des droits extrêmement larges sur son contenu. Licence accordée cesse lorsque le contenu est retiré.","topics":"Droit accordés aux utilisateurs (licences)","point":"blocker","sources":"https://www.youtube.com/t/terms","score":90}}
+{
+  "id": "youtconten",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Licence large accordée à YT sur le contenu",
+  "tosdr": {
+    "binding": true,
+    "point": "blocker",
+    "score": 90,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "YT peut supprimer tout contenu contrevenant de façon discrétionnaire. En uploadant, l'utilsateur cède des droits extrêmement larges sur son contenu. Licence accordée cesse lorsque le contenu est retiré.",
+    "topics": "Droit accordés aux utilisateurs (licences)"
+  }
+}

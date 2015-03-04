@@ -1,2 +1,16 @@
-
-{ "id":"instaglicens","service":"Instagram","title":"licence non-exclusive","tosdr":{"tldr":"1. Licence non-exclusive","topics":"Droit accordés aux utilisateurs (licences)","point":"bad","sources":"http://instagram.com/about/legal/terms/","score":90}}
+{
+  "id": "instaglicens",
+  "service": "Instagram",
+  "services": [
+    "Instagram"
+  ],
+  "title": "licence non-exclusive",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 90,
+    "sources": "http://instagram.com/about/legal/terms/",
+    "tldr": "1. Licence non-exclusive",
+    "topics": "Droit accordés aux utilisateurs (licences)"
+  }
+}

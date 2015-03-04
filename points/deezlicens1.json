@@ -1,4 +1,16 @@
-{   
-    "id": "deezlicens1",
-"service":"deezer","title":"Propriété exclusive de Deezer sur les contenus publiés","tosdr":{"tldr":"Propriété exclusive de Deezer sur les enregistrements et autres contenus diffusés sur le site. Reproduction ou représentation totale ou partielle interdite.","point":"neutral","score":50},"topics":"Droit accordés aux utilisateurs (licences)","sources":"http://www.deezer.com/fr/legal/cgu"
+{
+  "id": "deezlicens1",
+  "service": "deezer",
+  "services": [
+    "deezer"
+  ],
+  "sources": "http://www.deezer.com/fr/legal/cgu",
+  "title": "Propriété exclusive de Deezer sur les contenus publiés",
+  "topics": "Droit accordés aux utilisateurs (licences)",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "tldr": "Propriété exclusive de Deezer sur les enregistrements et autres contenus diffusés sur le site. Reproduction ou représentation totale ou partielle interdite."
+  }
 }

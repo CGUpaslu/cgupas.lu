@@ -1,1 +1,16 @@
-{ "id":"facecalf","service":"Facebook","title":"Juridiction californienne","tosdr":{"tldr":"Le droit de l’État de Californie est le droit appliqué à cette Déclaration, de même que toute action entre vous et nous, sans égard aux principes de conflit de lois. Vous acceptez de respecter la juridiction des tribunaux du comté de Santa Clara, en Californie, dans le cadre de telles actions. + Si vous résidez en Californie, vous renoncez à la clause §1542 du code civil de l'Etat de Californie","topics":"Juridiction compétente","point":"bad","sources":"https://www.facebook.com/legal/terms","score":50}}
+{
+  "id": "facecalf",
+  "service": "Facebook",
+  "services": [
+    "Facebook"
+  ],
+  "title": "Juridiction californienne",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 50,
+    "sources": "https://www.facebook.com/legal/terms",
+    "tldr": "Le droit de l’État de Californie est le droit appliqué à cette Déclaration, de même que toute action entre vous et nous, sans égard aux principes de conflit de lois. Vous acceptez de respecter la juridiction des tribunaux du comté de Santa Clara, en Californie, dans le cadre de telles actions. + Si vous résidez en Californie, vous renoncez à la clause §1542 du code civil de l'Etat de Californie",
+    "topics": "Juridiction compétente"
+  }
+}

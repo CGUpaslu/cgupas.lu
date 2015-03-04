@@ -1,2 +1,16 @@
-
-{ "id":"sugeren","service":"SugarSync","title":"English only","tosdr":{"tldr":"Texte disponible en anglais uniquement mais clair.","topics":"Lisibilité et intelligibilité des CGU","point":"bad","sources":"https://www.sugarsync.com/terms.html","score":30}}
+{
+  "id": "sugeren",
+  "service": "SugarSync",
+  "services": [
+    "SugarSync"
+  ],
+  "title": "English only",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 30,
+    "sources": "https://www.sugarsync.com/terms.html",
+    "tldr": "Texte disponible en anglais uniquement mais clair.",
+    "topics": "Lisibilité et intelligibilité des CGU"
+  }
+}

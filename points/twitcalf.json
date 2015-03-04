@@ -1,2 +1,16 @@
-
-{ "id":"twitcalf","service":"Twitter","title":"Juridiction californienne","tosdr":{"tldr":"les Conditions et toute action judiciaire engagée en relation avec ces Conditions sont régies par les lois de l'État de Californie des Etats-Unis d'Amérique sans considération et sans faire application des dispositions légales de votre Etat ou de votre pays de résidence relatives aux conflits de lois","topics":"Juridiction compétente","point":"bad","sources":"https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1843","score":50}}
+{
+  "id": "twitcalf",
+  "service": "Twitter",
+  "services": [
+    "Twitter"
+  ],
+  "title": "Juridiction californienne",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 50,
+    "sources": "https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1843",
+    "tldr": "les Conditions et toute action judiciaire engagée en relation avec ces Conditions sont régies par les lois de l'État de Californie des Etats-Unis d'Amérique sans considération et sans faire application des dispositions légales de votre Etat ou de votre pays de résidence relatives aux conflits de lois",
+    "topics": "Juridiction compétente"
+  }
+}

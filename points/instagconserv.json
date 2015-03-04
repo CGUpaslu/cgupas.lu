@@ -1,2 +1,16 @@
-
-{ "id":"instagconserv","service":"Instagram","title":"Tous les matériaux en ligne peuvent être conservés par Instagram","tosdr":{"tldr":"1. Les matériaux mis en ligne peuvent subsister à la fermeture du compte, que celle-ci soit volontaire ou imposée.<br><br>2. Tout contenu placé sur le site ou retiré par les services de gestion peut continuer à être stocké, même sans limitation.","topics":"Conditions de résiliation","point":"blocker","sources":"http://instagram.com/about/legal/terms/","score":90}}
+{
+  "id": "instagconserv",
+  "service": "Instagram",
+  "services": [
+    "Instagram"
+  ],
+  "title": "Tous les matériaux en ligne peuvent être conservés par Instagram",
+  "tosdr": {
+    "binding": true,
+    "point": "blocker",
+    "score": 90,
+    "sources": "http://instagram.com/about/legal/terms/",
+    "tldr": "1. Les matériaux mis en ligne peuvent subsister à la fermeture du compte, que celle-ci soit volontaire ou imposée.<br><br>2. Tout contenu placé sur le site ou retiré par les services de gestion peut continuer à être stocké, même sans limitation.",
+    "topics": "Conditions de résiliation"
+  }
+}

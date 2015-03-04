@@ -1,2 +1,16 @@
-
-{ "id":"facelicens","service":"Facebook","title":"Une licence accordée… jusqu'à la supression du compte","tosdr":{"tldr":"1/  Vous restez toujours propriétaire des informations vous concernant que nous recevons, même si vous nous donnez l’autorisation de les utiliser. Votre confiance nous est précieuse, voici pourquoi nous ne communiquons pas les informations vous concernant que nous recevons à d’autres parties, sauf si : <br />⋅ nous avons reçu votre autorisation ;<br />⋅ nous vous avons prévenu, par exemple en vous en informant dans cette politique ; ou<br />⋅ nous avons supprimé votre nom ou toute autre information personnelle permettant de vous identifier. <br /><br />2/ -        Concernant les contenus protégés par la propriété intellectuelle : « vous nous accordez une licence non-exclusive, transférable, sous-licenciable, sans redevance et mondiale pour l’utilisation des contenus de propriété intellectuelle que vous publiez sur Facebook ou en relation avec Facebook »<br />⋅        Prend fin lors de la suppression des contenus ou le compte<br />        Peuvent subsister un temps sur les bases de données","topics":"Droit accordés aux utilisateurs (licences)","point":"bad","sources":"https://www.facebook.com/legal/terms","score":70}}
+{
+  "id": "facelicens",
+  "service": "Facebook",
+  "services": [
+    "Facebook"
+  ],
+  "title": "Une licence accordée… jusqu'à la supression du compte",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 70,
+    "sources": "https://www.facebook.com/legal/terms",
+    "tldr": "1/  Vous restez toujours propriétaire des informations vous concernant que nous recevons, même si vous nous donnez l’autorisation de les utiliser. Votre confiance nous est précieuse, voici pourquoi nous ne communiquons pas les informations vous concernant que nous recevons à d’autres parties, sauf si : <br />⋅ nous avons reçu votre autorisation ;<br />⋅ nous vous avons prévenu, par exemple en vous en informant dans cette politique ; ou<br />⋅ nous avons supprimé votre nom ou toute autre information personnelle permettant de vous identifier. <br /><br />2/ -        Concernant les contenus protégés par la propriété intellectuelle : « vous nous accordez une licence non-exclusive, transférable, sous-licenciable, sans redevance et mondiale pour l’utilisation des contenus de propriété intellectuelle que vous publiez sur Facebook ou en relation avec Facebook »<br />⋅        Prend fin lors de la suppression des contenus ou le compte<br />        Peuvent subsister un temps sur les bases de données",
+    "topics": "Droit accordés aux utilisateurs (licences)"
+  }
+}

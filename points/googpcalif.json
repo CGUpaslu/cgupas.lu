@@ -1,2 +1,16 @@
-
-{ "id":"googpcalif","service":"Instagram","title":"Juridiction californienne coûte que coûte","tosdr":{"tldr":"1. Les conditions d'utilisation sont régies et interprétées conformément aux lois de l'Etat de Californie <br><br>2. Elles ne donnent pas effet aux principes de conflit de loi et de conflit de juridiction, et se dégagent de l'autorité des convention des Nations Unies relatives au commerce international des marchandises - si jamais elles se révélaient applicables <br><br>3. Si une disposition devait être jugée illicite, elle sera considérée comme détachable de l'ensemble des conditions","topics":"Juridiction compétente","point":"bad","sources":"http://instagram.com/about/legal/terms/","score":50}}
+{
+  "id": "googpcalif",
+  "service": "Instagram",
+  "services": [
+    "Instagram"
+  ],
+  "title": "Juridiction californienne coûte que coûte",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 50,
+    "sources": "http://instagram.com/about/legal/terms/",
+    "tldr": "1. Les conditions d'utilisation sont régies et interprétées conformément aux lois de l'Etat de Californie <br><br>2. Elles ne donnent pas effet aux principes de conflit de loi et de conflit de juridiction, et se dégagent de l'autorité des convention des Nations Unies relatives au commerce international des marchandises - si jamais elles se révélaient applicables <br><br>3. Si une disposition devait être jugée illicite, elle sera considérée comme détachable de l'ensemble des conditions",
+    "topics": "Juridiction compétente"
+  }
+}

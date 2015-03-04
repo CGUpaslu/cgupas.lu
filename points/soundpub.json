@@ -1,2 +1,16 @@
-
-{ "id":"soundpub","service":"Soundcloud","title":"Délivrance d'une licence par la publication","tosdr":{"tldr":"La publication d'un contenu audio sur la plateforme entraîne la délivrance à SC et aux autres utilisateurs d'une licence limitée, mondiale, non-exclusive et gratuite pour l'utilisation, la transmission, la copie, la distribution, l'affichage et la performance public des contenus.","topics":"Droit accordés aux utilisateurs (licences)","point":"neutral","sources":"https://soundcloud.com/terms-of-use","score":50}}
+{
+  "id": "soundpub",
+  "service": "Soundcloud",
+  "services": [
+    "Soundcloud"
+  ],
+  "title": "Délivrance d'une licence par la publication",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "sources": "https://soundcloud.com/terms-of-use",
+    "tldr": "La publication d'un contenu audio sur la plateforme entraîne la délivrance à SC et aux autres utilisateurs d'une licence limitée, mondiale, non-exclusive et gratuite pour l'utilisation, la transmission, la copie, la distribution, l'affichage et la performance public des contenus.",
+    "topics": "Droit accordés aux utilisateurs (licences)"
+  }
+}

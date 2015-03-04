@@ -1,2 +1,16 @@
-
-{ "id":"dropchang","service":"Dropbox","title":"Communication des principaux changements de CGU","tosdr":{"tldr":"Les CGU les plus récentes sont toujours en ligne. Les modifications conséquentes (aux yeux de Dropbox) font l'objet d'une information directe de l'utilisateur. Les autres modifications ne font pas l'objet d'information directe. Par ailleurs, continuer à utiliser le service après une modification des CGU revient à accepter les nouvelles CGU.","topics":"Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","point":"good","sources":"https://www.dropbox.com/privacy#terms","score":30}}
+{
+  "id": "dropchang",
+  "service": "Dropbox",
+  "services": [
+    "Dropbox"
+  ],
+  "title": "Communication des principaux changements de CGU",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 30,
+    "sources": "https://www.dropbox.com/privacy#terms",
+    "tldr": "Les CGU les plus récentes sont toujours en ligne. Les modifications conséquentes (aux yeux de Dropbox) font l'objet d'une information directe de l'utilisateur. Les autres modifications ne font pas l'objet d'information directe. Par ailleurs, continuer à utiliser le service après une modification des CGU revient à accepter les nouvelles CGU.",
+    "topics": "Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs"
+  }
+}

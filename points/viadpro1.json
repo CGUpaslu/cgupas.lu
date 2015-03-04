@@ -8,7 +8,9 @@
   "services": "viadeo",
   "sources": "terms",
   "title": "Utilisation personnelle et profesionnelle du compte",
-  "topics": ["governance"],
+  "topics": [
+    "governance"
+  ],
   "tosdr": {
     "binding": true,
     "point": "neutral",

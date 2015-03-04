@@ -1,4 +1,16 @@
-{   
-    "id": "deezperso1",
-"service":"deezer","title":"Aucune communication des données personnelles aux tiers","tosdr":{"tldr":"Données personnelles collectées strictement destinées à Deezer. Conservées à titre de contrat. Aucun transfert vers un autre organisme.","point":"good","score":50},"topics":"Relations avec les tiers","sources":"http://www.deezer.com/fr/legal/cgu"
+{
+  "id": "deezperso1",
+  "service": "deezer",
+  "services": [
+    "deezer"
+  ],
+  "sources": "http://www.deezer.com/fr/legal/cgu",
+  "title": "Aucune communication des données personnelles aux tiers",
+  "topics": "Relations avec les tiers",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 50,
+    "tldr": "Données personnelles collectées strictement destinées à Deezer. Conservées à titre de contrat. Aucun transfert vers un autre organisme."
+  }
 }

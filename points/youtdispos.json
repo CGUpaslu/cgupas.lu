@@ -1,2 +1,16 @@
-
-{ "id":"youtdispos","service":"Youtube","title":"Interdiction de disposer du contenu","tosdr":{"tldr":"Interdiction d'utiliser le contenu à des fins commerciales, de le copier, reproduire, transmettre, diffuser, etc., sans l'accord de YT et des ayant-droits. ","topics":"Engagements de la part des utilisateurs","point":"neutral","sources":"https://www.youtube.com/t/terms","score":50}}
+{
+  "id": "youtdispos",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Interdiction de disposer du contenu",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "Interdiction d'utiliser le contenu à des fins commerciales, de le copier, reproduire, transmettre, diffuser, etc., sans l'accord de YT et des ayant-droits. ",
+    "topics": "Engagements de la part des utilisateurs"
+  }
+}

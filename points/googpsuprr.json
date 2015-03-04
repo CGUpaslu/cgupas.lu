@@ -1,2 +1,16 @@
-
-{ "id":"googpsuprr","service":"Google Play","title":"Incertitude concernant la suppression des données","tosdr":{"tldr":"«Vous avez la possibilité de consulter et de supprimer les informations stockées (sauf si nous sommes tenus de les conserver, par obligation légale ou à des fins commerciales légitimes et restreintes, notamment dans le cadre de recherches liées à la fraude)»","topics":"Conditions de résiliation","point":"bad","sources":"https://play.google.com/intl/fr_fr/about/play-terms.html","score":70}}
+{
+  "id": "googpsuprr",
+  "service": "Google Play",
+  "services": [
+    "Google Play"
+  ],
+  "title": "Incertitude concernant la suppression des données",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 70,
+    "sources": "https://play.google.com/intl/fr_fr/about/play-terms.html",
+    "tldr": "«Vous avez la possibilité de consulter et de supprimer les informations stockées (sauf si nous sommes tenus de les conserver, par obligation légale ou à des fins commerciales légitimes et restreintes, notamment dans le cadre de recherches liées à la fraude)»",
+    "topics": "Conditions de résiliation"
+  }
+}

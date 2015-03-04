@@ -1,2 +1,16 @@
-
-{ "id":"youtcgu","service":"Youtube","title":"Application des CGU de Google en la matière","tosdr":{"tldr":"Les dispositions des CGU de Google qui permettent un usage extensif des données utilisateurs par des tiers partenaires commerciaux trouvent à s'appliquer","topics":"Relations avec les tiers","point":"bad","sources":"https://www.youtube.com/t/terms","score":70}}
+{
+  "id": "youtcgu",
+  "service": "Youtube",
+  "services": [
+    "Youtube"
+  ],
+  "title": "Application des CGU de Google en la matière",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 70,
+    "sources": "https://www.youtube.com/t/terms",
+    "tldr": "Les dispositions des CGU de Google qui permettent un usage extensif des données utilisateurs par des tiers partenaires commerciaux trouvent à s'appliquer",
+    "topics": "Relations avec les tiers"
+  }
+}
